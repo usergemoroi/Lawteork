@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@android:color/white" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xdsdk="http://schemas.android.com/apk/res-auto" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="40.0dip">
+        <ImageView android:id="@id/id0062" android:layout_width="fill_parent" android:layout_height="150.0dip" android:layout_marginTop="28.0dip" android:src="@drawable/draw0089" android:scaleType="fitCenter" android:layout_alignParentTop="true" android:paddingStart="50.0dip" android:paddingEnd="50.0dip" android:layout_marginStart="0.0dip" android:layout_marginEnd="0.0dip" android:layout_alignParentStart="true" android:layout_alignParentEnd="true" />
+        <LinearLayout android:orientation="vertical" android:id="@id/id00f9" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/id0062">
+            <com.google.android.material.textfield.TextInputLayout android:id="@id/id00c0" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="10.0dip" android:hint="@string/str0057" app:boxStrokeWidth="2.0dip" app:boxStrokeWidthFocused="2.0dip" app:endIconDrawable="@drawable/ic_paste" app:endIconMode="custom" app:endIconTint="@color/color030e" style="@style/CustomTextInputLayout">
+                <com.google.android.material.textfield.TextInputEditText android:textColor="@color/black" android:textColorHint="@color/black" android:id="@id/textPassword" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" android:imeOptions="actionDone" />
+            </com.google.android.material.textfield.TextInputLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/id0071" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="10.0dip" android:layout_below="@id/id00f9">
+            <com.google.android.material.button.MaterialButton android:textColor="@android:color/white" android:gravity="center" android:id="@id/id010c" android:padding="15.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/str005f" android:textAlignment="center" style="@style/Theme.CheatUIDev.MainActivity.ActionButtons" />
+            <com.google.android.material.button.MaterialButton android:textColor="@android:color/black" android:gravity="center" android:id="@id/id01ad" android:padding="15.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/str00e1" android:textAlignment="center" style="@style/Theme.CheatUIDev.MainActivity.ActionButton" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/id006b" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <ImageView android:id="@id/id00f4" android:layout_width="50.0dip" android:layout_height="50.0dip" android:src="@drawable/draw008a" app:attr0493="?attr0113" />
+        <TextView android:textColor="@color/color030e" android:id="@id/id0091" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/str004f" />
+        <TextView android:textColor="@color/color030e" android:id="@id/id0207" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/str005c" />
+    </LinearLayout>
+</RelativeLayout>
