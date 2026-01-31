@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "kentos.loader.app-mergeReleaseResources-37:/values-large-v4/values-large-v4.xml",
+            "map": [
+                {
+                    "source": "/home/engine/project/app/src/main/res/values-large/styles.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,12",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,167,291,421,563,1029",
+                        "endLines": "2,3,4,5,11,17",
+                        "endColumns": "111,123,129,141,12,12",
+                        "endOffsets": "162,286,416,558,1024,1492"
+                    },
+                    "to": {
+                        "startLines": "9,10,13,14,15,21",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "566,677,1030,1159,1300,1766",
+                        "endLines": "9,10,13,14,20,26",
+                        "endColumns": "110,122,128,140,12,12",
+                        "endOffsets": "672,795,1154,1295,1761,2229"
+                    }
+                },
+                {
+                    "source": "/home/engine/.gradle/caches/transforms-3/353831e03204061db8e0c243b7ed063c/transformed/material-1.11.0/res/values-large-v4/values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,169",
+                        "endColumns": "113,115",
+                        "endOffsets": "164,280"
+                    },
+                    "to": {
+                        "startLines": "11,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "800,914",
+                        "endColumns": "113,115",
+                        "endOffsets": "909,1025"
+                    }
+                },
+                {
+                    "source": "/home/engine/project/app/src/main/res/values-large/dimens.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,117,195,268,345,417,492",
+                        "endColumns": "61,77,72,76,71,74,73",
+                        "endOffsets": "112,190,263,340,412,487,561"
+                    }
+                }
+            ]
+        }
+    ]
+}

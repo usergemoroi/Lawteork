@@ -1,0 +1,8 @@
+{
+  "ndkVersionFromDsl": "25.2.9519653",
+  "ndkDirProperty": "/home/engine/android-sdk/ndk/25.2.9519653",
+  "sdkFolder": "/home/engine/android-sdk",
+  "sideBySideNdkFolderNames": [
+    "25.2.9519653"
+  ]
+}

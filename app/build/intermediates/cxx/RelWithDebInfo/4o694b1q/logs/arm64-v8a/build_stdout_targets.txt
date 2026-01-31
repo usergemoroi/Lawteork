@@ -1,3 +1,2 @@
 ninja: Entering directory `/home/engine/project/app/.cxx/RelWithDebInfo/4o694b1q/arm64-v8a'
-[1/2] Linking CXX shared library /home/engine/project/app/build/intermediates/cxx/RelWithDebInfo/4o694b1q/obj/arm64-v8a/libBlackBox.so
-[2/2] Linking CXX shared library /home/engine/project/app/build/intermediates/cxx/RelWithDebInfo/4o694b1q/obj/arm64-v8a/libclient.so
+ninja: no work to do.
