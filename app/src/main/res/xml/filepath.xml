@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path name="internalPath" path="." />
+    <cache-path name="cachePath" path="." />
+    <external-path name="externalPath" path="." />
+    <external-files-path name="externalFPath" path="." />
+    <root-path name="sdPath" path="." />
+</paths>
