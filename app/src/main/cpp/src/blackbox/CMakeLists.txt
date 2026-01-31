@@ -8,23 +8,18 @@ add_library(BlackBox SHARED
     ${CMAKE_CURRENT_SOURCE_DIR}/impl_core.cpp
     ${CMAKE_CURRENT_SOURCE_DIR}/impl_security.cpp
     ${CMAKE_CURRENT_SOURCE_DIR}/impl_utils.cpp
-    
-    # JNI bindings
-    ${CMAKE_SOURCE_DIR}/jni/jni_interface.cpp
 )
 
 # Include directories for this library
 include_directories(
     ${CMAKE_SOURCE_DIR}/include/blackbox
     ${CMAKE_SOURCE_DIR}/jni
-    ${JNI_INCLUDE_DIRS}
 )
 
 # Link required libraries
 target_link_libraries(BlackBox
     log
     android
-    ${JNI_LIBRARIES}
 )
 
 # Set library output name

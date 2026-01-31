@@ -11,9 +11,9 @@
 namespace Cheat {
 
     // Global cheat state
-    static AimbotConfig g_aimbotConfig;
-    static BulletConfig g_bulletConfig;
-    static std::mutex g_mutex;
+    AimbotConfig g_aimbotConfig;
+    BulletConfig g_bulletConfig;
+    std::mutex g_mutex;
 
     bool Initialize() {
         std::lock_guard<std::mutex> lock(g_mutex);

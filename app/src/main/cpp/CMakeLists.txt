@@ -16,6 +16,10 @@ include_directories(
     ${CMAKE_SOURCE_DIR}/include
     ${CMAKE_SOURCE_DIR}/include/blackbox
     ${CMAKE_SOURCE_DIR}/include/client
+    ${CMAKE_SOURCE_DIR}/android
+    ${CMAKE_SOURCE_DIR}/android/esp
+    ${CMAKE_SOURCE_DIR}/android/overlay
+    ${CMAKE_SOURCE_DIR}/android/cheat
     ${CMAKE_SOURCE_DIR}/jni
 )
 
