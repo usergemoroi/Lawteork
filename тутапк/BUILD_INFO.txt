@@ -1,0 +1,243 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                    GAMEBLASTER PRO 5.4 - BUILD INFORMATION                   ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+📦 APPLICATION DETAILS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Application Name: GameBlaster Pro
+  Version: 5.4 (Build 31)
+  Package Name: kentos.loader
+  Target SDK: Android 34 (Android 14)
+  Minimum SDK: Android 24 (Android 7.0)
+  Architecture: ARM64-v8a only
+  
+📁 PROJECT STRUCTURE  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ✅ Native C++ Libraries (2):
+     - libBlackBox.so (852 KB) - Security & Anti-tamper
+     - libclient.so (3.5 MB) - Core functionality
+     
+  ✅ Java/Kotlin Source Files:
+     - BlackBox virtual environment hooks
+     - Activity management  
+     - Floating service integration
+     
+  ✅ Smali Classes:
+     - kentos.loader.App - Application class
+     - kentos.loader.floating.FloatService - Main floating service
+     - kentos.loader.floating.ESPView - ESP rendering
+     - kentos.loader.floating.Overlay - Overlay management
+     - kentos.loader.floating.ToggleAim - Aimbot control
+     - kentos.loader.floating.ToggleBullet - Bullet mod control
+     - kentos.loader.floating.HideRecorder - Screen recorder detection
+
+🔧 NATIVE LIBRARIES FUNCTIONALITY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  
+  📚 libBlackBox.so - Security Framework:
+  ───────────────────────────────────────────────────────────────────────────
+  • Root Detection (IsRootedDevice)
+  • Emulator Detection (IsEmulator)
+  • Debugger Detection (IsDebuggerAttached)
+  • Signature Verification (VerifySignature)
+  • Tampering Detection (CheckTampering)
+  • Xposed Framework Detection (DetectXposed)
+  • BlackBox Virtualization Detection
+  • AES Encryption/Decryption
+  • SHA256/MD5 Hashing
+  • Device Fingerprinting
+  • System Properties Access
+  • Running Apps Monitoring
+  
+  📚 libclient.so - Game Modification Framework:
+  ───────────────────────────────────────────────────────────────────────────
+  
+  🎯 ESP (Enhanced Sensory Perception):
+  • InitializeESP() - ESP system initialization
+  • DrawESPBox() - Draw boxes around players
+  • GetPlayerPosition() - Get player coordinates
+  • GetPlayerHealth() - Get player health status
+  • GetPlayerName() - Get player name
+  • RenderESPOverlay() - Render ESP overlay
+  • Configuration: color, line width, box type
+  
+  🖥️ Overlay System:
+  • InitializeOverlay() - Create system overlay
+  • CreateOverlayWindow() - Window management
+  • SetOverlayPosition() - Position control
+  • SetOverlaySize() - Size adjustment
+  • RenderFrame() - Frame rendering
+  • HandleInput() - Touch input processing
+  
+  🎮 Aimbot:
+  • InitializeAimbot() - Aimbot initialization
+  • CalculateAim() - Aim calculation
+  • GetNearestTarget() - Find closest target
+  • GetFOVTargets() - Get targets in FOV
+  • AdjustAim() - Smooth aim adjustment
+  • Parameters: sensitivity, smoothness, FOV, target bone
+  
+  💥 Bullet Modification:
+  • InitializeBullet() - Bullet mod initialization
+  • ModifyBulletTrajectory() - Trajectory modification
+  • SetBulletSpeed() - Speed control
+  • SetBulletDamage() - Damage modification
+  • SetNoRecoil() - Recoil elimination
+  • SetBulletSize() - Bullet size adjustment
+  
+  📹 Recorder Hide:
+  • DetectScreenRecorder() - Screen recorder detection
+  • HideFromRecorder() - Hide from recording
+  • BlockRecording() - Block screen capture
+  
+  🌐 Network & API:
+  • ConnectToServer() - Server connection
+  • SendTelemetry() - Data transmission
+  • FetchConfiguration() - Config download
+  • CheckForUpdates() - Update checking
+  • ReportAnalytics() - Analytics reporting
+
+📋 JNI INTERFACE FUNCTIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  
+  Floating Service Functions:
+  • Java_kentos_loader_floating_FloatService_SettingValue
+  • Java_kentos_loader_floating_FloatService_SettingAim
+  • Java_kentos_loader_floating_FloatService_SettingMemory
+  • Java_kentos_loader_floating_FloatService_Range
+  • Java_kentos_loader_floating_FloatService_distances
+  • Java_kentos_loader_floating_FloatService_recoil
+  • Java_kentos_loader_floating_FloatService_recoil2
+  • Java_kentos_loader_floating_FloatService_recoil3
+  • Java_kentos_loader_floating_FloatService_Bulletspeed
+  • Java_kentos_loader_floating_FloatService_AimingSpeed
+  • Java_kentos_loader_floating_FloatService_Smoothness
+  • Java_kentos_loader_floating_FloatService_TouchSize
+  • Java_kentos_loader_floating_FloatService_TouchPosX
+  • Java_kentos_loader_floating_FloatService_TouchPosY
+  • Java_kentos_loader_floating_FloatService_WideView
+  • Java_kentos_loader_floating_FloatService_Target
+  • Java_kentos_loader_floating_FloatService_AimWhen
+  • Java_kentos_loader_floating_FloatService_AimBy
+  • Java_kentos_loader_floating_FloatService_RadarSize
+  • Java_kentos_loader_floating_FloatService_SkinHack
+  
+  Overlay Functions:
+  • Java_kentos_loader_floating_Overlay_Close
+  • Java_kentos_loader_floating_Overlay_getReady
+  
+  Toggle Functions:
+  • Java_kentos_loader_floating_ToggleAim_ToggleAim
+  • Java_kentos_loader_floating_ToggleBullet_ToggleBullet
+  • Java_kentos_loader_floating_ToggleSimulation_ToggleSimulation
+
+🎯 GAME OFFSETS (BGMI/PUBG Mobile)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Player Offsets:
+  • AcknowledgedPawn: 0x528
+  • Health: 0xE28
+  • HealthMax: 0xE2C
+  • TeamId: 0x998
+  • PlayerUID: 0x988
+  • Name: 0x960
+  • IsDead: 0xE44
+  • IsBot: 0xA49
+  
+  Position & Movement:
+  • RootComponent: 0x208
+  • RelativeLocation: 0x1E4
+  • RelativeRotation: 0x1F0
+  • ComponentVelocity: 0x2C0
+  • LastUpdateVelocity: 0x330
+  • ControlRotation: 0x4E0
+  
+  Weapon Offsets:
+  • CurrentWeapon: 0x2A54
+  • WeaponManagerComponent: 0x2588
+  • ShootWeaponComponent: 0xF30
+  • CurrentReloadWeapon: 0x3128
+  • BulletFireSpeed: 0x560
+  • BulletRange: 0x6E4
+  • BaseImpactDamage: 0x6C4
+  • ShootInterval: 0x5A0
+  • ReloadRate: 0x978
+  
+  Camera & View:
+  • PlayerCameraManager: 0x548
+  • CameraCache: 0x520
+  • ScopeFov: 0x1C54
+  • SpringArmComp: 0x1CA0
+  
+  Vehicle Offsets:
+  • CurrentVehicle: 0xE70
+  • VehicleMovement: 0x1D50
+  • HP: 0x344
+  • Fuel: 0x424
+  • bIsEngineStarted: 0xBB8
+
+✨ FEATURES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ✅ Full ESP with player boxes, names, health, distance
+  ✅ Advanced Aimbot with FOV, smoothing, target selection
+  ✅ Bullet modifications (speed, damage, no recoil)
+  ✅ Floating UI overlay with easy controls
+  ✅ Screen recorder detection and hiding
+  ✅ Anti-cheat evasion (root/emulator/debugger detection)
+  ✅ Memory scanning and modification
+  ✅ Network synchronization with remote server
+  ✅ Automatic updates support
+  ✅ Extensive security features
+  
+🔒 PERMISSIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  • SYSTEM_ALERT_WINDOW - Floating overlay
+  • INTERNET - Network communication
+  • ACCESS_NETWORK_STATE - Network status
+  • READ/WRITE_EXTERNAL_STORAGE - File access
+  • CAMERA - Camera access
+  • ACCESS_FINE_LOCATION - GPS access
+  • + 100+ additional permissions for full functionality
+
+⚙️ BUILD CONFIGURATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Gradle: 8.1
+  Android Gradle Plugin: 8.1.0
+  Kotlin: 1.9.20
+  NDK Version: 25.2.9519653
+  CMake Version: 3.22.1
+  C++ Standard: C++17
+  Optimization Level: -O3
+  Build Type: Release
+  
+📝 NOTES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  This application contains the complete functionality of the original
+  GameBlaster Pro 5.4 APK. All native libraries, Java classes, and resources
+  have been analyzed and documented.
+  
+  The project structure has been set up for future modifications and
+  enhancements. All C++ source files, headers, and CMake configurations
+  are in place for compilation.
+  
+🔄 SOURCE CODE LOCATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  C++ Sources: app/src/main/cpp/
+  ├── android/
+  │   ├── cheat/ (aimbot.cpp, bullet.cpp, cheat.cpp)
+  │   ├── esp/ (esp.cpp)
+  │   └── overlay/ (overlay.cpp)
+  ├── src/
+  │   ├── blackbox/ (blackbox.cpp, impl_*.cpp)
+  │   └── client/ (client.cpp, network.cpp, api_server.cpp, security.cpp)
+  ├── jni/ (jni_interface.cpp)
+  └── include/ (all header files)
+  
+  Java Sources: app/src/main/java/
+  Smali Sources: app/src/main/smali/
+  Resources: app/src/main/res/
+  Manifest: app/src/main/AndroidManifest.xml
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Build Date: January 31, 2026
+  Status: Analysis & Documentation Complete
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
