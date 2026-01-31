@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@android:color/white" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="40.0dip">
+        <com.google.android.material.appbar.MaterialToolbar android:id="@id/id01f3" android:layout_width="fill_parent" android:layout_height="wrap_content" app:title="Home" app:titleTextColor="@color/black" />
+        <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:orientation="vertical" android:paddingBottom="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="10.0dip" android:paddingEnd="10.0dip">
+                <include android:id="@id/id0035" layout="@layout/layout0031" />
+                <include android:id="@id/id00e4" layout="@layout/layout0032" />
+                <LinearLayout android:gravity="center" android:layout_gravity="center_horizontal" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip">
+                    <com.google.android.material.button.MaterialButton android:textColor="@color/color0027" android:id="@id/id004d" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/str001c" android:layout_marginEnd="10.0dip" app:icon="@drawable/draw00a8" app:iconTint="@color/color0027" style="@style/Theme.CheatUIDev.MainActivity.ActionButton" />
+                    <com.google.android.material.button.MaterialButton android:textColor="@color/color0027" android:id="@id/hiderecord" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/str001f" android:layout_marginEnd="10.0dip" app:icon="@drawable/draw00af" app:iconTint="@color/color0027" style="@style/Theme.CheatUIDev.MainActivity.ActionButton" />
+                    <com.google.android.material.button.MaterialButton android:textColor="@color/color0027" android:id="@id/id010d" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/str0020" app:icon="@drawable/draw009a" app:iconTint="@color/color0027" style="@style/Theme.CheatUIDev.MainActivity.ActionButton" />
+                </LinearLayout>
+                <TextView android:textSize="20.0sp" android:textColor="@android:color/black" android:ellipsize="end" android:paddingTop="8.0dip" android:paddingBottom="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/str004e" />
+                <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:paddingTop="4.0dip" android:paddingBottom="4.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                        <com.google.android.material.imageview.ShapeableImageView android:layout_width="@dimen/dimen0096" android:layout_height="@dimen/dimen0096" android:src="@drawable/draw00b4" app:shapeAppearance="@style/Theme.CheatUIDev.ShapeAppearanceOverlay.Circle" />
+                        <Space android:layout_width="10.0dip" android:layout_height="0.0dip" />
+                        <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+                            <TextView android:textColor="@android:color/black" android:ellipsize="end" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="PUBGM India" android:maxLines="1" />
+                            <TextView android:textColor="@color/color030e" android:id="@id/id0216" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="com.pubg.imobile" />
+                        </LinearLayout>
+                        <com.google.android.material.button.MaterialButton android:textSize="9.0sp" android:textColor="@android:color/black" android:gravity="center" android:id="@id/InstallBgmi" android:layout_width="100.0dip" android:layout_height="wrap_content" android:text="@string/str0086" android:textAlignment="center" style="@style/Theme.CheatUIDev.MainActivity.ActionButton" />
+                    </LinearLayout>
+                    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:paddingTop="4.0dip" android:paddingBottom="4.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                        <com.google.android.material.imageview.ShapeableImageView android:layout_width="@dimen/dimen0096" android:layout_height="@dimen/dimen0096" android:src="@drawable/draw00b2" app:shapeAppearance="@style/Theme.CheatUIDev.ShapeAppearanceOverlay.Circle" />
+                        <Space android:layout_width="10.0dip" android:layout_height="0.0dip" />
+                        <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+                            <TextView android:textColor="@android:color/black" android:ellipsize="end" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="PUBGM Global" android:maxLines="1" />
+                            <TextView android:textColor="@color/color030e" android:id="@id/id0215" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="com.tencent.ig" />
+                        </LinearLayout>
+                        <com.google.android.material.button.MaterialButton android:textSize="9.0sp" android:textColor="@android:color/black" android:gravity="center" android:id="@id/InstallGlobal" android:layout_width="100.0dip" android:layout_height="wrap_content" android:text="@string/str0086" android:textAlignment="center" style="@style/Theme.CheatUIDev.MainActivity.ActionButton" />
+                    </LinearLayout>
+                    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:paddingTop="4.0dip" android:paddingBottom="4.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                        <com.google.android.material.imageview.ShapeableImageView android:layout_width="@dimen/dimen0096" android:layout_height="@dimen/dimen0096" android:src="@drawable/draw00b5" app:shapeAppearance="@style/Theme.CheatUIDev.ShapeAppearanceOverlay.Circle" />
+                        <Space android:layout_width="10.0dip" android:layout_height="0.0dip" />
+                        <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+                            <TextView android:textColor="@android:color/black" android:ellipsize="end" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="PUBGM Korea" android:maxLines="1" />
+                            <TextView android:textColor="@color/color030e" android:id="@id/id0217" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="com.pubg.krmobile" />
+                        </LinearLayout>
+                        <com.google.android.material.button.MaterialButton android:textSize="9.0sp" android:textColor="@android:color/black" android:gravity="center" android:id="@id/InstallKR" android:layout_width="100.0dip" android:layout_height="wrap_content" android:text="@string/str0086" android:textAlignment="center" style="@style/Theme.CheatUIDev.MainActivity.ActionButton" />
+                    </LinearLayout>
+                    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:paddingTop="4.0dip" android:paddingBottom="4.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                        <com.google.android.material.imageview.ShapeableImageView android:layout_width="@dimen/dimen0096" android:layout_height="@dimen/dimen0096" android:src="@drawable/draw0102" app:shapeAppearance="@style/Theme.CheatUIDev.ShapeAppearanceOverlay.Circle" />
+                        <Space android:layout_width="10.0dip" android:layout_height="0.0dip" />
+                        <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+                            <TextView android:textColor="@android:color/black" android:ellipsize="end" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="PUBGM TW" android:maxLines="1" />
+                            <TextView android:textColor="@color/color030e" android:id="@id/id02891" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="com.rekoo.pubgm" />
+                        </LinearLayout>
+                        <com.google.android.material.button.MaterialButton android:textSize="9.0sp" android:textColor="@android:color/black" android:gravity="center" android:id="@id/InstallTW" android:layout_width="100.0dip" android:layout_height="wrap_content" android:text="@string/str0086" android:textAlignment="center" style="@style/Theme.CheatUIDev.MainActivity.ActionButton" />
+                    </LinearLayout>
+                    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:paddingTop="4.0dip" android:paddingBottom="4.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                        <com.google.android.material.imageview.ShapeableImageView android:layout_width="@dimen/dimen0096" android:layout_height="@dimen/dimen0096" android:src="@drawable/circlevn" app:shapeAppearance="@style/Theme.CheatUIDev.ShapeAppearanceOverlay.Circle" />
+                        <Space android:layout_width="10.0dip" android:layout_height="0.0dip" />
+                        <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+                            <TextView android:textColor="@android:color/black" android:ellipsize="end" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="PUBGM VNG" android:maxLines="1" />
+                            <TextView android:textColor="@color/color030e" android:id="@id/id0218" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="com.vng.pubgmobile" />
+                        </LinearLayout>
+                        <com.google.android.material.button.MaterialButton android:textSize="9.0sp" android:textColor="@android:color/black" android:gravity="center" android:id="@id/InstallVNG" android:layout_width="100.0dip" android:layout_height="wrap_content" android:text="@string/str0086" android:textAlignment="center" style="@style/Theme.CheatUIDev.MainActivity.ActionButton" />
+                    </LinearLayout>
+                    <com.google.android.material.progressindicator.LinearProgressIndicator android:id="@id/progress" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:forceDarkAllowed="true" app:indicatorColor="@color/blazered" app:trackColor="@color/btngray" />
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+</LinearLayout>

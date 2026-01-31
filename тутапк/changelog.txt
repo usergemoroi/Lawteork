@@ -1,0 +1,117 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                     GAMEBLASTER PRO 5.4 - CHANGELOG                          ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+📅 VERSION 5.4 (Build 31) - January 31, 2026
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎉 MAJOR FEATURES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ✨ Complete ESP system with customizable rendering
+  ✨ Advanced Aimbot with FOV targeting and smooth tracking
+  ✨ Bullet modification system (speed, damage, trajectory)
+  ✨ Floating overlay UI for easy control access
+  ✨ Screen recorder detection and bypass
+  ✨ Full anti-cheat evasion system
+  
+🔧 IMPROVEMENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🚀 Optimized native libraries for better performance
+  🚀 Enhanced memory scanning algorithms
+  🚀 Improved network synchronization
+  🚀 Better error handling and stability
+  🚀 Reduced battery consumption
+  🚀 Faster overlay rendering
+  
+🛡️ SECURITY ENHANCEMENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🔒 Advanced root detection bypass
+  🔒 Emulator detection evasion
+  🔒 Debugger protection
+  🔒 Signature verification bypass
+  🔒 Xposed Framework detection
+  🔒 Memory tampering protection
+  🔒 AES-256 encryption for sensitive data
+  
+🐛 BUG FIXES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ✅ Fixed crash on certain Android 14 devices
+  ✅ Resolved ESP rendering issues on high DPI screens
+  ✅ Fixed aimbot target selection algorithm
+  ✅ Corrected bullet trajectory calculations
+  ✅ Fixed floating overlay touch input lag
+  ✅ Resolved memory leaks in native code
+  ✅ Fixed network connection timeout issues
+  
+📱 COMPATIBILITY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ✅ Android 7.0 (API 24) and higher
+  ✅ Android 14 (API 34) fully supported
+  ✅ ARM64-v8a architecture only
+  ✅ Tested on BGMI/PUBG Mobile latest versions
+  ✅ Compatible with Samsung, Xiaomi, OnePlus, OPPO devices
+  
+🎮 GAME SUPPORT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ✅ BGMI (Battlegrounds Mobile India)
+  ✅ PUBG Mobile Global
+  ✅ PUBG Mobile Korea
+  ✅ Game For Peace (China)
+  
+📊 TECHNICAL DETAILS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  • Native Libraries: 2 (libBlackBox.so, libclient.so)
+  • Total Size: ~14 MB
+  • Smali Classes: 100+ classes
+  • JNI Functions: 20+ exported functions
+  • Offsets Supported: 50+ game memory offsets
+  • Languages: C++17, Java 8, Kotlin 1.9
+  
+⚠️ KNOWN LIMITATIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ⚠️ Requires device without SafetyNet attestation
+  ⚠️ May not work on devices with locked bootloader (some features)
+  ⚠️ Screen recording protection may interfere with legitimate recorders
+  ⚠️ High battery usage during active use
+  ⚠️ May trigger anti-cheat detection if used carelessly
+  
+📋 INSTALLATION INSTRUCTIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  1. Enable "Install from Unknown Sources" in Android settings
+  2. Install GameBlasterPro-5.4-full.apk
+  3. Grant all requested permissions
+  4. Launch the app and configure settings
+  5. Start your game and activate features
+  
+🔄 UPDATE PROCEDURE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  • Uninstall previous version (if any)
+  • Install new version from APK file
+  • App will automatically check for updates on launch
+  • Configuration settings will be preserved
+  
+💡 USAGE TIPS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  💡 Start with conservative settings to avoid detection
+  💡 Use ESP only when necessary to reduce battery usage
+  💡 Adjust aimbot sensitivity based on your device's touch response
+  💡 Keep bullet modifications subtle for better stealth
+  💡 Regularly check for updates to maintain compatibility
+  💡 Close other background apps for best performance
+  
+🛠️ DEVELOPER NOTES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  This version includes complete source code analysis and documentation.
+  All native functions have been reverse-engineered and documented.
+  Memory offsets have been extracted and verified for latest game versions.
+  JNI interface has been fully mapped and documented.
+  
+  Project structure is ready for future modifications:
+  • All C++ sources organized in modular structure
+  • CMake build system configured
+  • Header files with full API documentation
+  • Smali classes preserved for reference
+  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  For support or questions, please refer to BUILD_INFO.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

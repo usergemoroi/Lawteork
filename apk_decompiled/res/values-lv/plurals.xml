@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="MT_Bin">
+        <item quantity="other">d jauni paziņojumi</item>
+        <item quantity="zero">d jaunu paziņojumu</item>
+        <item quantity="one">d jauns paziņojums</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d jauni paziņojumi</item>
+        <item quantity="zero">%d jaunu paziņojumu</item>
+        <item quantity="one">%d jauns paziņojums</item>
+    </plurals>
+</resources>
