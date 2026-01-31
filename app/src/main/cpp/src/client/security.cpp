@@ -6,6 +6,7 @@
 #include <android/log.h>
 #include <vector>
 #include <string>
+#include <chrono>
 
 #define LOG_TAG "ClientSecurity"
 #define LOGD(...) __android_log_print(ANDROID_LOG_DEBUG, LOG_TAG, __VA_ARGS__)
@@ -119,9 +120,13 @@ namespace Client {
     // Generate security token
     std::string GenerateSecurityToken() {
         std::string deviceFingerprint = BlackBox::GetDeviceFingerprint();
-        std::string timestamp = std::to_string(BlackBox::SystemUtils::GetCurrentTimeMillis());
+        auto now = std::chrono::system_clock::now();
+        auto ms = std::chrono::duration_cast<std::chrono::milliseconds>(now.time_since_epoch()).count();
+        std::string timestamp = std::to_string(ms);
         std::string combined = deviceFingerprint + "_" + timestamp;
-        return BlackBox::SecurityUtils::HashString(combined);
+        // Simple hash - in production use proper hashing
+        size_t hash = std::hash<std::string>{}(combined);
+        return std::to_string(hash);
     }
 
 } // namespace Client

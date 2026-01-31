@@ -7,6 +7,8 @@
 #include <sys/stat.h>
 #include <fcntl.h>
 #include <sys/system_properties.h>
+#include <fstream>
+#include <sstream>
 
 #define LOG_TAG "BlackBoxCore"
 #define LOGD(...) __android_log_print(ANDROID_LOG_DEBUG, LOG_TAG, __VA_ARGS__)

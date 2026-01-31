@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <ImageView android:id="@id/islandLogo" android:background="@android:color/transparent" android:layout_width="56.0dip" android:layout_height="56.0dip" android:src="@drawable/island_off" android:scaleType="fitCenter" />
-    <TextView android:textSize="8.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:paddingTop="2.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="island bypass" android:layout_below="@id/islandLogo" android:layout_centerHorizontal="true" android:alpha="0.8" android:fontFamily="sans-serif" />
-</RelativeLayout>

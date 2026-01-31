@@ -94,7 +94,7 @@ namespace Client {
 
     std::string URLJSON() {
         LOGD("URLJSON called");
-        return "{"url":"https://api.example.com"}";
+        return "{\"url\":\"https://api.example.com\"}";
     }
 
     std::string activity() {

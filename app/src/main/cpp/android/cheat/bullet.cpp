@@ -10,6 +10,11 @@
 
 namespace Cheat {
 
+    // External references to global config
+    extern AimbotConfig g_aimbotConfig;
+    extern BulletConfig g_bulletConfig;
+    extern std::mutex g_mutex;
+
     // Bullet modification structure
     struct BulletModification {
         float originalSpeed;

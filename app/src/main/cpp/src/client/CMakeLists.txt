@@ -32,14 +32,13 @@ include_directories(
     ${CMAKE_SOURCE_DIR}/android/overlay
     ${CMAKE_SOURCE_DIR}/android/cheat
     ${CMAKE_SOURCE_DIR}/jni
-    ${JNI_INCLUDE_DIRS}
 )
 
 # Link required libraries
 target_link_libraries(client
+    BlackBox
     log
     android
-    ${JNI_LIBRARIES}
 )
 
 # Set library output name

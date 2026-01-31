@@ -10,14 +10,24 @@ android {
     defaultConfig {
         applicationId "kentos.loader"
         minSdk 24
-        targetSdk 28
+        targetSdk 34
         versionCode 31
         versionName "5.4"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         
+        ndkVersion "25.2.9519653"
+        
         ndk {
             abiFilters 'arm64-v8a'
+        }
+        
+        externalNativeBuild {
+            cmake {
+                cppFlags "-std=c++17 -O3 -funroll-loops -fPIC"
+                abiFilters 'arm64-v8a'
+                arguments "-DANDROID_STL=c++_shared", "-DANDROID_PLATFORM=android-24"
+            }
         }
     }
 
@@ -48,13 +58,12 @@ android {
         abortOnError false
     }
 
-    // Temporarily disable native build due to missing dependencies
-    // externalNativeBuild {
-    //     cmake {
-    //         path "src/main/cpp/CMakeLists.txt"
-    //         version "3.18.1"
-    //     }
-    // }
+    externalNativeBuild {
+        cmake {
+            path "src/main/cpp/CMakeLists.txt"
+            version "3.22.1"
+        }
+    }
 
     sourceSets {
         main {

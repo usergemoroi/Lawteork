@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<androidx.cardview.widget.CardView android:id="@id/cv_lauch" android:layout_width="fill_parent" android:layout_height="fill_parent" app:cardBackgroundColor="@android:color/white" app:cardElevation="0.0dip"
-  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
-    <LinearLayout android:gravity="center" android:orientation="vertical" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent">
-        <TextView android:textColor="@color/white" android:gravity="center_vertical" android:id="@id/start_client" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/app_name" android:fontFamily="@font/cof" />
-    </LinearLayout>
-</androidx.cardview.widget.CardView>
