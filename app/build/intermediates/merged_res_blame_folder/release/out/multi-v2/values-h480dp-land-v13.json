@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "kentos.loader.app-mergeReleaseResources-37:/values-h480dp-land-v13/values-h480dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "/home/engine/.gradle/caches/transforms-3/353831e03204061db8e0c243b7ed063c/transformed/material-1.11.0/res/values-h480dp-land-v13/values-h480dp-land-v13.xml",
+                    "from": {
+                        "startLines": "5,6,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "226,293,413",
+                        "endColumns": "66,64,64",
+                        "endOffsets": "288,353,473"
+                    },
+                    "to": {
+                        "startLines": "5,6,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "235,302,425",
+                        "endColumns": "66,64,64",
+                        "endOffsets": "297,362,485"
+                    }
+                },
+                {
+                    "source": "/home/engine/project/app/src/main/res/values-h480dp-land/dimens.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,117,176,235,293,365",
+                        "endColumns": "61,58,58,57,71,71",
+                        "endOffsets": "112,171,230,288,360,432"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,7,9,10",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,117,176,367,490,562",
+                        "endColumns": "61,58,58,57,71,71",
+                        "endOffsets": "112,171,230,420,557,629"
+                    }
+                }
+            ]
+        }
+    ]
+}
