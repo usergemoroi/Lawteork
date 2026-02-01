@@ -1,2 +1,225 @@
 ninja: Entering directory `/home/engine/project/app/.cxx/RelWithDebInfo/4o694b1q/arm64-v8a'
-ninja: no work to do.
+[1/16] Building CXX object src/blackbox/CMakeFiles/BlackBox.dir/impl_utils.cpp.o
+[2/16] Building CXX object src/client/CMakeFiles/client.dir/__/__/android/cheat/cheat.cpp.o
+[3/16] Building CXX object src/client/CMakeFiles/client.dir/__/__/jni/jni_interface.cpp.o
+/home/engine/project/app/src/main/cpp/jni/jni_interface.cpp:125:48: warning: unused parameter 'tag' [-Wunused-parameter]
+    void LogException(JNIEnv* env, const char* tag) {
+                                               ^
+/home/engine/project/app/src/main/cpp/jni/jni_interface.cpp:179:48: warning: unused parameter 'env' [-Wunused-parameter]
+    void RegisterBlackBoxNativeMethods(JNIEnv* env) {
+                                               ^
+/home/engine/project/app/src/main/cpp/jni/jni_interface.cpp:185:46: warning: unused parameter 'env' [-Wunused-parameter]
+    void RegisterClientNativeMethods(JNIEnv* env) {
+                                             ^
+/home/engine/project/app/src/main/cpp/jni/jni_interface.cpp:191:55: warning: unused parameter 'env' [-Wunused-parameter]
+    void RegisterFloatingServiceNativeMethods(JNIEnv* env) {
+                                                      ^
+/home/engine/project/app/src/main/cpp/jni/jni_interface.cpp:197:43: warning: unused parameter 'env' [-Wunused-parameter]
+    void RegisterESPNativeMethods(JNIEnv* env) {
+                                          ^
+/home/engine/project/app/src/main/cpp/jni/jni_interface.cpp:203:47: warning: unused parameter 'env' [-Wunused-parameter]
+    void RegisterOverlayNativeMethods(JNIEnv* env) {
+                                              ^
+/home/engine/project/app/src/main/cpp/jni/jni_interface.cpp:209:45: warning: unused parameter 'env' [-Wunused-parameter]
+    void RegisterCheatNativeMethods(JNIEnv* env) {
+                                            ^
+/home/engine/project/app/src/main/cpp/jni/jni_interface.cpp:217:64: warning: unused parameter 'reserved' [-Wunused-parameter]
+extern "C" JNIEXPORT jint JNICALL JNI_OnLoad(JavaVM* vm, void* reserved) {
+                                                               ^
+/home/engine/project/app/src/main/cpp/jni/jni_interface.cpp:244:56: warning: unused parameter 'vm' [-Wunused-parameter]
+extern "C" JNIEXPORT void JNICALL JNI_OnUnload(JavaVM* vm, void* reserved) {
+                                                       ^
+/home/engine/project/app/src/main/cpp/jni/jni_interface.cpp:244:66: warning: unused parameter 'reserved' [-Wunused-parameter]
+extern "C" JNIEXPORT void JNICALL JNI_OnUnload(JavaVM* vm, void* reserved) {
+                                                                 ^
+10 warnings generated.
+[4/16] Building CXX object src/client/CMakeFiles/client.dir/__/__/android/cheat/aimbot.cpp.o
+[5/16] Building CXX object src/client/CMakeFiles/client.dir/__/__/android/cheat/bullet.cpp.o
+/home/engine/project/app/src/main/cpp/android/cheat/bullet.cpp:27:31: warning: unused variable 'g_bulletModification' [-Wunused-variable]
+    static BulletModification g_bulletModification;
+                              ^
+1 warning generated.
+[6/16] Building CXX object src/client/CMakeFiles/client.dir/__/__/android/overlay/overlay.cpp.o
+/home/engine/project/app/src/main/cpp/android/overlay/overlay.cpp:130:80: warning: unused parameter 'r' [-Wunused-parameter]
+    void DrawText(const std::string& text, float x, float y, float size, float r, float g, float b, float a) {
+                                                                               ^
+/home/engine/project/app/src/main/cpp/android/overlay/overlay.cpp:130:89: warning: unused parameter 'g' [-Wunused-parameter]
+    void DrawText(const std::string& text, float x, float y, float size, float r, float g, float b, float a) {
+                                                                                        ^
+/home/engine/project/app/src/main/cpp/android/overlay/overlay.cpp:130:98: warning: unused parameter 'b' [-Wunused-parameter]
+    void DrawText(const std::string& text, float x, float y, float size, float r, float g, float b, float a) {
+                                                                                                 ^
+/home/engine/project/app/src/main/cpp/android/overlay/overlay.cpp:130:107: warning: unused parameter 'a' [-Wunused-parameter]
+    void DrawText(const std::string& text, float x, float y, float size, float r, float g, float b, float a) {
+                                                                                                          ^
+/home/engine/project/app/src/main/cpp/android/overlay/overlay.cpp:139:70: warning: unused parameter 'r' [-Wunused-parameter]
+    void DrawRect(float x, float y, float width, float height, float r, float g, float b, float a) {
+                                                                     ^
+/home/engine/project/app/src/main/cpp/android/overlay/overlay.cpp:139:79: warning: unused parameter 'g' [-Wunused-parameter]
+    void DrawRect(float x, float y, float width, float height, float r, float g, float b, float a) {
+                                                                              ^
+/home/engine/project/app/src/main/cpp/android/overlay/overlay.cpp:139:88: warning: unused parameter 'b' [-Wunused-parameter]
+    void DrawRect(float x, float y, float width, float height, float r, float g, float b, float a) {
+                                                                                       ^
+/home/engine/project/app/src/main/cpp/android/overlay/overlay.cpp:139:97: warning: unused parameter 'a' [-Wunused-parameter]
+    void DrawRect(float x, float y, float width, float height, float r, float g, float b, float a) {
+                                                                                                ^
+/home/engine/project/app/src/main/cpp/android/overlay/overlay.cpp:148:65: warning: unused parameter 'width' [-Wunused-parameter]
+    void DrawLine(float x1, float y1, float x2, float y2, float width, float r, float g, float b, float a) {
+                                                                ^
+/home/engine/project/app/src/main/cpp/android/overlay/overlay.cpp:148:78: warning: unused parameter 'r' [-Wunused-parameter]
+    void DrawLine(float x1, float y1, float x2, float y2, float width, float r, float g, float b, float a) {
+                                                                             ^
+/home/engine/project/app/src/main/cpp/android/overlay/overlay.cpp:148:87: warning: unused parameter 'g' [-Wunused-parameter]
+    void DrawLine(float x1, float y1, float x2, float y2, float width, float r, float g, float b, float a) {
+                                                                                      ^
+/home/engine/project/app/src/main/cpp/android/overlay/overlay.cpp:148:96: warning: unused parameter 'b' [-Wunused-parameter]
+    void DrawLine(float x1, float y1, float x2, float y2, float width, float r, float g, float b, float a) {
+                                                                                               ^
+/home/engine/project/app/src/main/cpp/android/overlay/overlay.cpp:148:105: warning: unused parameter 'a' [-Wunused-parameter]
+    void DrawLine(float x1, float y1, float x2, float y2, float width, float r, float g, float b, float a) {
+                                                                                                        ^
+13 warnings generated.
+[7/16] Building CXX object src/client/CMakeFiles/client.dir/api_server.cpp.o
+/home/engine/project/app/src/main/cpp/src/client/api_server.cpp:14:99: warning: unused parameter 'clazz' [-Wunused-parameter]
+    JNIEXPORT jstring JNICALL Java_kentos_loader_server_ApiServer_CheckServer(JNIEnv* env, jclass clazz)
+                                                                                                  ^
+/home/engine/project/app/src/main/cpp/src/client/api_server.cpp:20:91: warning: unused parameter 'clazz' [-Wunused-parameter]
+    JNIEXPORT jstring JNICALL Java_kentos_loader_server_ApiServer_EXP(JNIEnv* env, jclass clazz)
+                                                                                          ^
+/home/engine/project/app/src/main/cpp/src/client/api_server.cpp:26:90: warning: unused parameter 'clazz' [-Wunused-parameter]
+    JNIEXPORT jstring JNICALL Java_kentos_loader_server_ApiServer_Pw(JNIEnv* env, jclass clazz)
+                                                                                         ^
+/home/engine/project/app/src/main/cpp/src/client/api_server.cpp:32:95: warning: unused parameter 'clazz' [-Wunused-parameter]
+    JNIEXPORT jstring JNICALL Java_kentos_loader_server_ApiServer_URLJSON(JNIEnv* env, jclass clazz)
+                                                                                              ^
+/home/engine/project/app/src/main/cpp/src/client/api_server.cpp:38:96: warning: unused parameter 'clazz' [-Wunused-parameter]
+    JNIEXPORT jstring JNICALL Java_kentos_loader_server_ApiServer_activity(JNIEnv* env, jclass clazz)
+                                                                                               ^
+/home/engine/project/app/src/main/cpp/src/client/api_server.cpp:44:113: warning: unused parameter 'clazz' [-Wunused-parameter]
+    JNIEXPORT jstring JNICALL Java_kentos_loader_server_ApiServer_checkSuspiciousAppsNative(JNIEnv* env, jclass clazz)
+                                                                                                                ^
+/home/engine/project/app/src/main/cpp/src/client/api_server.cpp:50:94: warning: unused parameter 'clazz' [-Wunused-parameter]
+    JNIEXPORT jstring JNICALL Java_kentos_loader_server_ApiServer_fdjhvf(JNIEnv* env, jclass clazz)
+                                                                                             ^
+/home/engine/project/app/src/main/cpp/src/client/api_server.cpp:56:95: warning: unused parameter 'clazz' [-Wunused-parameter]
+    JNIEXPORT jstring JNICALL Java_kentos_loader_server_ApiServer_getGrup(JNIEnv* env, jclass clazz)
+                                                                                              ^
+/home/engine/project/app/src/main/cpp/src/client/api_server.cpp:62:96: warning: unused parameter 'clazz' [-Wunused-parameter]
+    JNIEXPORT jstring JNICALL Java_kentos_loader_server_ApiServer_getOwner(JNIEnv* env, jclass clazz)
+                                                                                               ^
+/home/engine/project/app/src/main/cpp/src/client/api_server.cpp:68:99: warning: unused parameter 'clazz' [-Wunused-parameter]
+    JNIEXPORT jstring JNICALL Java_kentos_loader_server_ApiServer_getTelegram(JNIEnv* env, jclass clazz)
+                                                                                                  ^
+/home/engine/project/app/src/main/cpp/src/client/api_server.cpp:74:95: warning: unused parameter 'clazz' [-Wunused-parameter]
+    JNIEXPORT jstring JNICALL Java_kentos_loader_server_ApiServer_mainURL(JNIEnv* env, jclass clazz)
+                                                                                              ^
+/home/engine/project/app/src/main/cpp/src/client/api_server.cpp:80:102: warning: unused parameter 'clazz' [-Wunused-parameter]
+    JNIEXPORT jstring JNICALL Java_kentos_loader_server_ApiServer_sockallversion(JNIEnv* env, jclass clazz)
+                                                                                                     ^
+/home/engine/project/app/src/main/cpp/src/client/api_server.cpp:86:97: warning: unused parameter 'clazz' [-Wunused-parameter]
+    JNIEXPORT jstring JNICALL Java_kentos_loader_server_ApiServer_sockindia(JNIEnv* env, jclass clazz)
+                                                                                                ^
+13 warnings generated.
+[8/16] Building CXX object src/client/CMakeFiles/client.dir/__/__/android/esp/esp.cpp.o
+[9/16] Building CXX object src/client/CMakeFiles/client.dir/client.cpp.o
+[10/16] Building CXX object src/client/CMakeFiles/client.dir/network.cpp.o
+[11/16] Building CXX object src/client/CMakeFiles/client.dir/security.cpp.o
+[12/16] Building CXX object src/blackbox/CMakeFiles/BlackBox.dir/impl_security.cpp.o
+/home/engine/project/app/src/main/cpp/src/blackbox/impl_security.cpp:64:88: warning: unused parameter 'algorithm' [-Wunused-parameter]
+    std::string SecurityUtils::HashString(const std::string& input, const std::string& algorithm) {
+                                                                                       ^
+/home/engine/project/app/src/main/cpp/src/blackbox/impl_security.cpp:134:13: warning: unused variable 'in_' [-Wunused-variable]
+        int in_ = 0;
+            ^
+2 warnings generated.
+[13/16] Building CXX object src/blackbox/CMakeFiles/BlackBox.dir/blackbox.cpp.o
+/home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:256:110: warning: unused parameter 'thiz' [-Wunused-parameter]
+    JNIEXPORT jboolean JNICALL Java_kentos_loader_Component_DownloadZip_verifySignature(JNIEnv* env, jobject thiz, jstring apkPath)
+                                                                                                             ^
+/home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:264:96: warning: unused parameter 'env' [-Wunused-parameter]
+    JNIEXPORT jboolean JNICALL Java_kentos_loader_Component_DownloadZip_checkTampering(JNIEnv* env, jobject thiz)
+                                                                                               ^
+/home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:264:109: warning: unused parameter 'thiz' [-Wunused-parameter]
+    JNIEXPORT jboolean JNICALL Java_kentos_loader_Component_DownloadZip_checkTampering(JNIEnv* env, jobject thiz)
+                                                                                                            ^
+/home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:269:114: warning: unused parameter 'thiz' [-Wunused-parameter]
+    JNIEXPORT jstring JNICALL Java_kentos_loader_Component_DownloadZip_getDeviceFingerprint(JNIEnv* env, jobject thiz)
+                                                                                                                 ^
+/home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:275:110: warning: unused parameter 'thiz' [-Wunused-parameter]
+    JNIEXPORT jboolean JNICALL Java_kentos_loader_Component_DownloadZip_validateLicense(JNIEnv* env, jobject thiz, jstring licenseKey)
+                                                                                                             ^
+/home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:283:96: warning: unused parameter 'env' [-Wunused-parameter]
+    JNIEXPORT jboolean JNICALL Java_kentos_loader_Component_DownloadZip_isRootedDevice(JNIEnv* env, jobject thiz)
+                                                                                               ^
+/home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:283:109: warning: unused parameter 'thiz' [-Wunused-parameter]
+    JNIEXPORT jboolean JNICALL Java_kentos_loader_Component_DownloadZip_isRootedDevice(JNIEnv* env, jobject thiz)
+                                                                                                            ^
+/home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:288:92: warning: unused parameter 'env' [-Wunused-parameter]
+    JNIEXPORT jboolean JNICALL Java_kentos_loader_Component_DownloadZip_isEmulator(JNIEnv* env, jobject thiz)
+                                                                                           ^
+/home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:288:105: warning: unused parameter 'thiz' [-Wunused-parameter]
+    JNIEXPORT jboolean JNICALL Java_kentos_loader_Component_DownloadZip_isEmulator(JNIEnv* env, jobject thiz)
+                                                                                                        ^
+/home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:293:100: warning: unused parameter 'env' [-Wunused-parameter]
+    JNIEXPORT jboolean JNICALL Java_kentos_loader_Component_DownloadZip_isDebuggerAttached(JNIEnv* env, jobject thiz)
+                                                                                                   ^
+/home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:293:113: warning: unused parameter 'thiz' [-Wunused-parameter]
+    JNIEXPORT jboolean JNICALL Java_kentos_loader_Component_DownloadZip_isDebuggerAttached(JNIEnv* env, jobject thiz)
+                                                                                                                ^
+/home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:298:114: warning: unused parameter 'thiz' [-Wunused-parameter]
+    JNIEXPORT jboolean JNICALL Java_kentos_loader_Component_DownloadZip_executeShellCommand(JNIEnv* env, jobject thiz, jstring command)
+                                                                                                                 ^
+/home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:306:123: warning: unused parameter 'thiz' [-Wunused-parameter]
+    JNIEXPORT jstring JNICALL Java_kentos_loader_Component_DownloadZip_executeShellCommandWithOutput(JNIEnv* env, jobject thiz, jstring command)
+                                                                                                                          ^
+/home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:314:105: warning: unused parameter 'thiz' [-Wunused-parameter]
+    JNIEXPORT jboolean JNICALL Java_kentos_loader_Component_DownloadZip_fileExists(JNIEnv* env, jobject thiz, jstring path)
+                                                                                                        ^
+/home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:322:110: warning: unused parameter 'thiz' [-Wunused-parameter]
+    JNIEXPORT jboolean JNICALL Java_kentos_loader_Component_DownloadZip_createDirectory(JNIEnv* env, jobject thiz, jstring path)
+                                                                                                             ^
+/home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:330:105: warning: unused parameter 'thiz' [-Wunused-parameter]
+    JNIEXPORT jboolean JNICALL Java_kentos_loader_Component_DownloadZip_deleteFile(JNIEnv* env, jobject thiz, jstring path)
+                                                                                                        ^
+/home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:338:103: warning: unused parameter 'thiz' [-Wunused-parameter]
+    JNIEXPORT jboolean JNICALL Java_kentos_loader_Component_DownloadZip_copyFile(JNIEnv* env, jobject thiz, jstring src, jstring dest)
+                                                                                                      ^
+/home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:348:105: warning: unused parameter 'thiz' [-Wunused-parameter]
+    JNIEXPORT jstring JNICALL Java_kentos_loader_Component_DownloadZip_encryptData(JNIEnv* env, jobject thiz, jstring data, jstring key)
+                                                                                                        ^
+/home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:358:105: warning: unused parameter 'thiz' [-Wunused-parameter]
+    JNIEXPORT jstring JNICALL Java_kentos_loader_Component_DownloadZip_decryptData(JNIEnv* env, jobject thiz, jstring data, jstring key)
+                                                                                                        ^
+/home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:368:108: warning: unused parameter 'thiz' [-Wunused-parameter]
+    JNIEXPORT jstring JNICALL Java_kentos_loader_Component_DownloadZip_generateAESKey(JNIEnv* env, jobject thiz)
+                                                                                                           ^
+/home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:374:105: warning: unused parameter 'env' [-Wunused-parameter]
+    JNIEXPORT jboolean JNICALL Java_kentos_loader_Component_DownloadZip_checkInternetConnection(JNIEnv* env, jobject thiz)
+                                                                                                        ^
+/home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:374:118: warning: unused parameter 'thiz' [-Wunused-parameter]
+    JNIEXPORT jboolean JNICALL Java_kentos_loader_Component_DownloadZip_checkInternetConnection(JNIEnv* env, jobject thiz)
+                                                                                                                     ^
+/home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:379:111: warning: unused parameter 'thiz' [-Wunused-parameter]
+    JNIEXPORT jstring JNICALL Java_kentos_loader_Component_DownloadZip_getLocalIPAddress(JNIEnv* env, jobject thiz)
+                                                                                                              ^
+/home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:385:101: warning: unused parameter 'thiz' [-Wunused-parameter]
+    JNIEXPORT void JNICALL Java_kentos_loader_Component_DownloadZip_logMessage(JNIEnv* env, jobject thiz, jstring tag, jstring message)
+                                                                                                    ^
+/home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:394:99: warning: unused parameter 'thiz' [-Wunused-parameter]
+    JNIEXPORT void JNICALL Java_kentos_loader_Component_DownloadZip_logError(JNIEnv* env, jobject thiz, jstring tag, jstring message)
+                                                                                                  ^
+/home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:403:105: warning: unused parameter 'thiz' [-Wunused-parameter]
+    JNIEXPORT void JNICALL Java_kentos_loader_Component_DownloadZip_setConfigValue(JNIEnv* env, jobject thiz, jstring key, jstring value)
+                                                                                                        ^
+/home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:412:108: warning: unused parameter 'thiz' [-Wunused-parameter]
+    JNIEXPORT jstring JNICALL Java_kentos_loader_Component_DownloadZip_getConfigValue(JNIEnv* env, jobject thiz, jstring key, jstring defaultValue)
+                                                                                                           ^
+27 warnings generated.
+[14/16] Building CXX object src/blackbox/CMakeFiles/BlackBox.dir/impl_core.cpp.o
+/home/engine/project/app/src/main/cpp/src/blackbox/impl_core.cpp:230:58: warning: unused parameter 'tag' [-Wunused-parameter]
+    void JNIUtils::LogException(JNIEnv* env, const char* tag) {
+                                                         ^
+1 warning generated.
+[15/16] Linking CXX shared library /home/engine/project/app/build/intermediates/cxx/RelWithDebInfo/4o694b1q/obj/arm64-v8a/libBlackBox.so
+[16/16] Linking CXX shared library /home/engine/project/app/build/intermediates/cxx/RelWithDebInfo/4o694b1q/obj/arm64-v8a/libclient.so

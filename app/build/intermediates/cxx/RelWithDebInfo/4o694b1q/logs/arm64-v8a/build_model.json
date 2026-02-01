@@ -42,7 +42,7 @@
       "moduleBuildFile": "/home/engine/project/app/build.gradle",
       "makeFile": "/home/engine/project/app/src/main/cpp/CMakeLists.txt",
       "buildSystem": "CMAKE",
-      "ndkFolder": "/home/engine/android-sdk/ndk/25.2.9519653",
+      "ndkFolder": "/home/engine/Android/Sdk/ndk/25.2.9519653",
       "ndkVersion": "25.2.9519653",
       "ndkSupportedAbiList": [
         "ARMEABI_V7A",
@@ -108,17 +108,17 @@
           "default": true
         }
       ],
-      "cmakeToolchainFile": "/home/engine/android-sdk/ndk/25.2.9519653/build/cmake/android.toolchain.cmake",
+      "cmakeToolchainFile": "/home/engine/Android/Sdk/ndk/25.2.9519653/build/cmake/android.toolchain.cmake",
       "cmake": {
-        "cmakeExe": "/home/engine/android-sdk/cmake/3.22.1/bin/cmake",
+        "cmakeExe": "/home/engine/Android/Sdk/cmake/3.22.1/bin/cmake",
         "cmakeVersionFromDsl": "3.22.1"
       },
       "stlSharedObjectMap": {
         "LIBCXX_SHARED": {
-          "ARMEABI_V7A": "/home/engine/android-sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/arm-linux-androideabi/libc++_shared.so",
-          "ARM64_V8A": "/home/engine/android-sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
-          "X86": "/home/engine/android-sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
-          "X86_64": "/home/engine/android-sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
+          "ARMEABI_V7A": "/home/engine/Android/Sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/arm-linux-androideabi/libc++_shared.so",
+          "ARM64_V8A": "/home/engine/Android/Sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
+          "X86": "/home/engine/Android/Sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
+          "X86_64": "/home/engine/Android/Sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
         },
         "LIBCXX_STATIC": {},
         "NONE": {},
@@ -126,13 +126,13 @@
       },
       "project": {
         "rootBuildGradleFolder": "/home/engine/project",
-        "sdkFolder": "/home/engine/android-sdk",
+        "sdkFolder": "/home/engine/Android/Sdk",
         "isBuildOnlyTargetAbiEnabled": true,
         "isCmakeBuildCohabitationEnabled": false,
         "isPrefabEnabled": false
       },
       "outputOptions": [],
-      "ninjaExe": "/home/engine/android-sdk/cmake/3.22.1/bin/ninja",
+      "ninjaExe": "/home/engine/Android/Sdk/cmake/3.22.1/bin/ninja",
       "hasBuildTimeInformation": true
     },
     "prefabClassPaths": [],
@@ -155,10 +155,10 @@
     "-DCMAKE_SYSTEM_VERSION\u003d24",
     "-DANDROID_ABI\u003darm64-v8a",
     "-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a",
-    "-DANDROID_NDK\u003d/home/engine/android-sdk/ndk/25.2.9519653",
-    "-DCMAKE_ANDROID_NDK\u003d/home/engine/android-sdk/ndk/25.2.9519653",
-    "-DCMAKE_TOOLCHAIN_FILE\u003d/home/engine/android-sdk/ndk/25.2.9519653/build/cmake/android.toolchain.cmake",
-    "-DCMAKE_MAKE_PROGRAM\u003d/home/engine/android-sdk/cmake/3.22.1/bin/ninja",
+    "-DANDROID_NDK\u003d/home/engine/Android/Sdk/ndk/25.2.9519653",
+    "-DCMAKE_ANDROID_NDK\u003d/home/engine/Android/Sdk/ndk/25.2.9519653",
+    "-DCMAKE_TOOLCHAIN_FILE\u003d/home/engine/Android/Sdk/ndk/25.2.9519653/build/cmake/android.toolchain.cmake",
+    "-DCMAKE_MAKE_PROGRAM\u003d/home/engine/Android/Sdk/cmake/3.22.1/bin/ninja",
     "-DCMAKE_CXX_FLAGS\u003d-std\u003dc++17 -O3 -funroll-loops -fPIC",
     "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/home/engine/project/app/build/intermediates/cxx/RelWithDebInfo/4o694b1q/obj/arm64-v8a",
     "-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/home/engine/project/app/build/intermediates/cxx/RelWithDebInfo/4o694b1q/obj/arm64-v8a",
@@ -168,6 +168,6 @@
     "-DANDROID_STL\u003dc++_shared",
     "-DANDROID_PLATFORM\u003dandroid-24"
   ],
-  "stlLibraryFile": "/home/engine/android-sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
+  "stlLibraryFile": "/home/engine/Android/Sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
   "intermediatesParentFolder": "/home/engine/project/app/build/intermediates/cxx/RelWithDebInfo/4o694b1q"
 }
