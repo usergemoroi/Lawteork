@@ -64,6 +64,9 @@ android {
         resources {
             excludes += ['META-INF/*.kotlin_module', 'META-INF/DEPENDENCIES']
         }
+        jniLibs {
+            useLegacyPackaging = false
+        }
     }
     
     lintOptions {
@@ -82,29 +85,6 @@ android {
         main {
             jniLibs.srcDirs = ['src/main/jniLibs']
             jni.srcDirs = ['src/main/cpp']
-            java {
-                exclude 'android/**'
-                exclude 'androidx/**'
-                exclude 'black/**'
-                exclude 'com/**'
-                exclude 'kotlin/**'
-                exclude 'kotlinx/**'
-                exclude 'me/**'
-                exclude 'net/**'
-                exclude 'okhttp3/**'
-                exclude 'okio/**'
-                exclude 'org/**'
-                exclude 'p000a/**'
-                exclude 'p007b/**'
-                exclude 'p013c/**'
-                exclude 'p014d/**'
-                exclude 'p015e/**'
-                exclude 'p016f/**'
-                exclude 'p017g/**'
-                exclude 'p018h/**'
-                exclude 'p019i/**'
-                exclude 'top/**'
-            }
         }
     }
 }

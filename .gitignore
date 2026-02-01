@@ -13,3 +13,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Temporary APK files (root directory)
+/gameblasternpkey2-unsigned.apk
+/gameblasternpkey2.apk
