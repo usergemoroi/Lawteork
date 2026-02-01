@@ -1,4 +1,4 @@
-/home/engine/Android/Sdk/cmake/3.22.1/bin/ninja \
+/home/engine/android-sdk/cmake/3.22.1/bin/ninja \
   -C \
   /home/engine/project/app/.cxx/RelWithDebInfo/4o694b1q/arm64-v8a \
   BlackBox \

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AppTheme">
+        <attr name="black" format="reference|color" />
+        <attr name="white" format="reference|color" />
+        <attr name="gray" format="reference|color" />
+        <attr name="gray2" format="reference|color" />
+        <attr name="colorBackground" format="reference|color" />
+        <attr name="colorCard" format="reference|color" />
+        <attr name="colorIcon" format="reference|color" />
+        <attr name="lang" format="reference|color" />
+    </declare-styleable>
+    <attr name="attr0113" format="reference|string" />
+    <attr name="attr0493" format="reference|string" />
+</resources>

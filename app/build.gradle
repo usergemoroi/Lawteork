@@ -31,10 +31,20 @@ android {
         }
     }
 
+    signingConfigs {
+        release {
+            storeFile file('release.keystore')
+            storePassword 'catui999'
+            keyAlias 'catui999'
+            keyPassword 'catui999'
+        }
+    }
+
     buildTypes {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
         }
     }
     
@@ -69,6 +79,29 @@ android {
         main {
             jniLibs.srcDirs = ['src/main/jniLibs']
             jni.srcDirs = ['src/main/cpp']
+            java {
+                exclude 'android/**'
+                exclude 'androidx/**'
+                exclude 'black/**'
+                exclude 'com/**'
+                exclude 'kotlin/**'
+                exclude 'kotlinx/**'
+                exclude 'me/**'
+                exclude 'net/**'
+                exclude 'okhttp3/**'
+                exclude 'okio/**'
+                exclude 'org/**'
+                exclude 'p000a/**'
+                exclude 'p007b/**'
+                exclude 'p013c/**'
+                exclude 'p014d/**'
+                exclude 'p015e/**'
+                exclude 'p016f/**'
+                exclude 'p017g/**'
+                exclude 'p018h/**'
+                exclude 'p019i/**'
+                exclude 'top/**'
+            }
         }
     }
 }

@@ -1,0 +1,2786 @@
+[
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_timepicker_clock_text_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_timepicker_clock_text_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/animator_fragment_open_enter.xml.flat",
+        "source": "kentos.loader.app-main-40:/animator/fragment_open_enter.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_mtrl_switch_track_decoration.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/mtrl_switch_track_decoration.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_material_personalized_primary_inverse_text_disable_only.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/material_personalized_primary_inverse_text_disable_only.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout-land_mtrl_picker_header_dialog.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout-land/mtrl_picker_header_dialog.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_text_btn_text_color_selector.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_text_btn_text_color_selector.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-mdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-mdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_hint_foreground.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_hint_foreground.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_button_background_color_selector.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_button_background_color_selector.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_mtrl_picker_dialog.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/mtrl_picker_dialog.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_m3_bottom_sheet_slide_in.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/m3_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_material_ic_clear_black_24dp.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/material_ic_clear_black_24dp.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_mtrl_picker_header_title_text.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/mtrl_picker_header_title_text.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_navigation_rail_item_with_indicator_label_tint.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_navigation_rail_item_with_indicator_label_tint.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_btn_radio_to_off_mtrl_ring_outer_animation.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_choice_chip_background_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_choice_chip_background_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_design_navigation_item.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_ic_mtrl_checked_circle.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/ic_mtrl_checked_circle.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_calendar_item_stroke_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_calendar_item_stroke_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_ic_mtrl_chip_checked_black.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/ic_mtrl_chip_checked_black.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_timepicker_secondary_text_button_text_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_timepicker_secondary_text_button_text_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_btn_checkbox_to_unchecked_check_path_merged_animation.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/btn_checkbox_to_unchecked_check_path_merged_animation.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_tabs_icon_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_tabs_icon_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_button_ripple_color_selector.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_button_ripple_color_selector.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-hdpi_notification_bg_low_pressed.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-hdpi/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_filled_background_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_filled_background_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/animator_mtrl_extended_fab_hide_motion_spec.xml.flat",
+        "source": "kentos.loader.app-main-40:/animator/mtrl_extended_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_material_cursor_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/material_cursor_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_design_password_eye.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_slider_thumb_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_slider_thumb_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_mtrl_picker_text_input_date_range.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/mtrl_picker_text_input_date_range.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_popupmenu_overlay_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_popupmenu_overlay_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_material_time_chip.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/material_time_chip.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_abc_ic_voice_search_api_material.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_icon_button_icon_color_selector.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_icon_button_icon_color_selector.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-mdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-mdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/interpolator_fast_out_slow_in.xml.flat",
+        "source": "kentos.loader.app-main-40:/interpolator/fast_out_slow_in.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_abc_dialog_title_material.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_text_button_ripple_color_selector.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_text_button_ripple_color_selector.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_navigation_item_icon_tint.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_navigation_item_icon_tint.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_tabs_icon_color_selector_colored.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_tabs_icon_color_selector_colored.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-hdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-hdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-mdpi_notification_bg_low_pressed.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-mdpi/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_card_foreground_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_card_foreground_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_mtrl_picker_fullscreen.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/mtrl_picker_fullscreen.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout-land_material_clock_period_toggle_land.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout-land/material_clock_period_toggle_land.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/animator_m3_elevated_chip_state_list_anim.xml.flat",
+        "source": "kentos.loader.app-main-40:/animator/m3_elevated_chip_state_list_anim.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_material_timepicker_dialog.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/material_timepicker_dialog.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxhdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxhdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxxhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxxhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_draw00b5.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/draw00b5.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_slider_inactive_track_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_slider_inactive_track_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxxhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_material_timepicker.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/material_timepicker.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/animator_m3_btn_state_list_anim.xml.flat",
+        "source": "kentos.loader.app-main-40:/animator/m3_btn_state_list_anim.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_circlevn.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/circlevn.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxhdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxhdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_abc_text_cursor_material.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_m3_tabs_line_indicator.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/m3_tabs_line_indicator.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xhdpi_abc_list_focused_holo.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xhdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout-v26_mtrl_calendar_month.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout-v26/mtrl_calendar_month.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_mtrl_alert_dialog_title.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/mtrl_alert_dialog_title.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xhdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xhdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_linear_indeterminate_line1_head_interpolator.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/linear_indeterminate_line1_head_interpolator.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-hdpi_abc_list_focused_holo.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-hdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_abc_seekbar_tick_mark_material.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_design_layout_tab_text.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_draw00a8.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/draw00a8.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color-v31_m3_dynamic_default_color_secondary_text.xml.flat",
+        "source": "kentos.loader.app-main-40:/color-v31/m3_dynamic_default_color_secondary_text.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_elevated_chip_background_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_elevated_chip_background_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_material_personalized_hint_foreground_inverse.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/material_personalized_hint_foreground_inverse.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_abc_edit_text_material.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_fab_ripple_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_fab_ripple_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_abc_cab_background_top_material.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_abc_slide_in_bottom.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxhdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxhdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_slider_halo_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_slider_halo_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xhdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_switch_thumb_tint.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_switch_thumb_tint.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_mtrl_calendar_days_of_week.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/mtrl_calendar_days_of_week.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_mtrl_calendar_month_navigation.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/mtrl_calendar_month_navigation.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_material_timepicker_textinput_display.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/material_timepicker_textinput_display.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/xml_filepath.xml.flat",
+        "source": "kentos.loader.app-main-40:/xml/filepath.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_switch_track_decoration_tint.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_switch_track_decoration_tint.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-mdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-mdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/interpolator_btn_radio_to_off_mtrl_animation_interpolator_0.xml.flat",
+        "source": "kentos.loader.app-main-40:/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_abc_secondary_text_material_dark.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_design_fab_background.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_button_foreground_color_selector.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_button_foreground_color_selector.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_draw008a.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/draw008a.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/interpolator_btn_radio_to_on_mtrl_animation_interpolator_0.xml.flat",
+        "source": "kentos.loader.app-main-40:/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xhdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xhdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_activity_login.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/activity_login.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxhdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxhdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-mdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-mdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_m3_appbar_background.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/m3_appbar_background.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/font_cof.otf.flat",
+        "source": "kentos.loader.app-main-40:/font/cof.otf"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_material_personalized__highlighted_text.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/material_personalized__highlighted_text.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/animator_m3_extended_fab_hide_motion_spec.xml.flat",
+        "source": "kentos.loader.app-main-40:/animator/m3_extended_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-hdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-hdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_ic_paste.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/ic_paste.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxhdpi_abc_list_focused_holo.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxhdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_abc_dialog_material_background.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_textfield_filled_background_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_textfield_filled_background_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_fab_ripple_color_selector.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_fab_ripple_color_selector.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_abc_popup_menu_header_item_layout.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/animator_fragment_fade_enter.xml.flat",
+        "source": "kentos.loader.app-main-40:/animator/fragment_fade_enter.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_m3_selection_control_ripple.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/m3_selection_control_ripple.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_layout0031.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/layout0031.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xhdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xhdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/animator_mtrl_fab_transformation_sheet_collapse_spec.xml.flat",
+        "source": "kentos.loader.app-main-40:/animator/mtrl_fab_transformation_sheet_collapse_spec.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_select_dialog_item_material.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_design_icon_tint.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/design_icon_tint.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_design_layout_tab_icon.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_draw008c.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/draw008c.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_material_personalized_color_primary_text_inverse.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/material_personalized_color_primary_text_inverse.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/interpolator_mtrl_linear_out_slow_in.xml.flat",
+        "source": "kentos.loader.app-main-40:/interpolator/mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_design_box_stroke_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/design_box_stroke_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_m3_tabs_rounded_line_indicator.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/m3_tabs_rounded_line_indicator.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxhdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxhdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_button_ripple_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_button_ripple_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_mtrl_calendar_month_labeled.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/mtrl_calendar_month_labeled.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_timepicker_secondary_text_button_ripple_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_timepicker_secondary_text_button_ripple_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_switch_track_tint.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_switch_track_tint.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_abc_ic_go_search_api_material.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_btn_radio_to_off_mtrl_ring_outer_path_animation.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_material_clock_display_divider.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/material_clock_display_divider.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_choice_chip_text_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_choice_chip_text_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-mdpi_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-mdpi/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_abc_action_bar_item_background_material.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_material_clock_display.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/material_clock_display.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_tabs_text_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_tabs_text_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/animator_m3_card_state_list_anim.xml.flat",
+        "source": "kentos.loader.app-main-40:/animator/m3_card_state_list_anim.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-mdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-mdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_material_clockface_textview.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/material_clockface_textview.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-mdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-mdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_abc_hint_foreground_material_dark.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/animator_m3_card_elevated_state_list_anim.xml.flat",
+        "source": "kentos.loader.app-main-40:/animator/m3_card_elevated_state_list_anim.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_mtrl_card_lowers_interpolator.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/mtrl_card_lowers_interpolator.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-mdpi_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-mdpi/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_textfield_indicator_text_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_textfield_indicator_text_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-mdpi_notification_bg_normal.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-mdpi/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_notification_action_background.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/notification_action_background.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-mdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-mdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_chip_close_icon_tint.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_chip_close_icon_tint.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_material_on_background_disabled.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/material_on_background_disabled.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xhdpi_notification_bg_normal.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xhdpi/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/animator_m3_chip_state_list_anim.xml.flat",
+        "source": "kentos.loader.app-main-40:/animator/m3_chip_state_list_anim.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_material_divider_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/material_divider_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_material_timepicker_button_stroke.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/material_timepicker_button_stroke.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_abc_list_menu_item_icon.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/interpolator_mtrl_fast_out_linear_in.xml.flat",
+        "source": "kentos.loader.app-main-40:/interpolator/mtrl_fast_out_linear_in.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/interpolator_mtrl_linear.xml.flat",
+        "source": "kentos.loader.app-main-40:/interpolator/mtrl_linear.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_notification_template_part_chronometer.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_m3_alert_dialog_actions.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/m3_alert_dialog_actions.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxxhdpi_abc_text_select_handle_right_mtrl.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxxhdpi/abc_text_select_handle_right_mtrl.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_chip_assist_text_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_chip_assist_text_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-ldrtl-xxxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-ldrtl-xxxhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_chip_stroke_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_chip_stroke_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_material_on_surface_emphasis_medium.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/material_on_surface_emphasis_medium.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/animator_design_fab_show_motion_spec.xml.flat",
+        "source": "kentos.loader.app-main-40:/animator/design_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-hdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-hdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_tooltip_frame_light.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_material_on_primary_emphasis_medium.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/material_on_primary_emphasis_medium.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_navigation_item_background_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_navigation_item_background_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxhdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xhdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xhdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_ic_clear_black_24.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/ic_clear_black_24.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_btn_radio_to_on_mtrl_ring_outer_path_animation.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_abc_primary_text_disable_only_material_light.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_linear_indeterminate_line2_head_interpolator.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/linear_indeterminate_line2_head_interpolator.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_abc_ic_menu_copy_mtrl_am_alpha.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/abc_ic_menu_copy_mtrl_am_alpha.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-mdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-mdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_fab_efab_foreground_color_selector.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_fab_efab_foreground_color_selector.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_material_chip_input_combo.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/material_chip_input_combo.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_island_off.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/island_off.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/xml_network_security.xml.flat",
+        "source": "kentos.loader.app-main-40:/xml/network_security.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_m3_alert_dialog_title.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/m3_alert_dialog_title.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxxhdpi_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxxhdpi/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_outlined_stroke_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_outlined_stroke_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-mdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-mdpi/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_tooltip_frame_dark.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/animator_fragment_fade_exit.xml.flat",
+        "source": "kentos.loader.app-main-40:/animator/fragment_fade_exit.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-hdpi_notification_bg_normal_pressed.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-hdpi/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xhdpi_abc_text_select_handle_middle_mtrl.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xhdpi/abc_text_select_handle_middle_mtrl.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_btn_checkbox_to_unchecked_box_inner_merged_animation.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_choice_chip_ripple_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_choice_chip_ripple_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_notification_template_custom_big.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_material_clockface_view.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/material_clockface_view.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_calendar_item_disabled_text.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_calendar_item_disabled_text.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_abc_primary_text_material_dark.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_abc_action_mode_bar.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_abc_fade_out.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_mtrl_bottom_sheet_slide_out.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/mtrl_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/xml_provider_paths.xml.flat",
+        "source": "kentos.loader.app-main-40:/xml/provider_paths.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-mdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-mdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_material_textinput_timepicker.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/material_textinput_timepicker.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_tabs_colored_ripple_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_tabs_colored_ripple_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxhdpi_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxhdpi/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_abc_list_divider_mtrl_alpha.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/abc_list_divider_mtrl_alpha.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_material_timepicker_modebutton_tint.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/material_timepicker_modebutton_tint.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_abc_ic_menu_cut_mtrl_alpha.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/abc_ic_menu_cut_mtrl_alpha.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_btn_ripple_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_btn_ripple_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_design_navigation_menu_item.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/interpolator_m3_sys_motion_easing_standard_decelerate.xml.flat",
+        "source": "kentos.loader.app-main-40:/interpolator/m3_sys_motion_easing_standard_decelerate.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_notification_action_tombstone.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_abc_screen_toolbar.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_material_on_surface_disabled.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/material_on_surface_disabled.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxhdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxhdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_fab_bg_color_selector.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_fab_bg_color_selector.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_m3_tabs_background.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/m3_tabs_background.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_material_clock_period_toggle.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/material_clock_period_toggle.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxhdpi_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxhdpi/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout-watch_abc_alert_dialog_title_material.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout-watch/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_calendar_selected_range.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_calendar_selected_range.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_abc_ic_ab_back_material.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_console_background.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/console_background.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_card_ripple_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_card_ripple_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_design_layout_snackbar.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-hdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-hdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/interpolator_btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml.flat",
+        "source": "kentos.loader.app-main-40:/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_timepicker_button_ripple_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_timepicker_button_ripple_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_material_ic_keyboard_arrow_previous_black_24dp.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/material_ic_keyboard_arrow_previous_black_24dp.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_activity_main.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/interpolator_m3_sys_motion_easing_standard.xml.flat",
+        "source": "kentos.loader.app-main-40:/interpolator/m3_sys_motion_easing_standard.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-mdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-mdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xhdpi_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xhdpi/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_material_cursor_drawable.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/material_cursor_drawable.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_fragment_fast_out_extra_slow_in.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/fragment_fast_out_extra_slow_in.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/interpolator_btn_checkbox_checked_mtrl_animation_interpolator_1.xml.flat",
+        "source": "kentos.loader.app-main-40:/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_draw0102.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/draw0102.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_draw00a0.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/draw00a0.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_abc_list_menu_item_layout.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/interpolator_m3_sys_motion_easing_standard_accelerate.xml.flat",
+        "source": "kentos.loader.app-main-40:/interpolator/m3_sys_motion_easing_standard_accelerate.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_abc_tint_edittext.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-mdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-mdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color-v31_m3_ref_palette_dynamic_neutral94.xml.flat",
+        "source": "kentos.loader.app-main-40:/color-v31/m3_ref_palette_dynamic_neutral94.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_material_slider_active_tick_marks_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/material_slider_active_tick_marks_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_abc_expanded_menu_layout.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_notification_action.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/notification_action.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_indicator_text_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_indicator_text_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-mdpi_abc_list_focused_holo.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-mdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color-v31_m3_dynamic_dark_default_color_primary_text.xml.flat",
+        "source": "kentos.loader.app-main-40:/color-v31/m3_dynamic_dark_default_color_primary_text.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_material_personalized_primary_text_disable_only.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/material_personalized_primary_text_disable_only.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_tabs_ripple_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_tabs_ripple_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xhdpi_notification_bg_low_normal.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xhdpi/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_efab_ripple_color_selector.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_efab_ripple_color_selector.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_draw009a.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/draw009a.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_mtrl_calendar_months.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/mtrl_calendar_months.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_material_slider_active_track_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/material_slider_active_track_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/xml_backup_rules.xml.flat",
+        "source": "kentos.loader.app-main-40:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_m3_bottom_sheet_slide_out.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/m3_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_primary_text_disable_only.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_primary_text_disable_only.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxhdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxhdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_mtrl_bottomsheet_drag_handle.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/mtrl_bottomsheet_drag_handle.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_abc_ic_menu_paste_mtrl_am_alpha.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/abc_ic_menu_paste_mtrl_am_alpha.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxhdpi_abc_text_select_handle_right_mtrl.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxhdpi/abc_text_select_handle_right_mtrl.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/animator_fragment_open_exit.xml.flat",
+        "source": "kentos.loader.app-main-40:/animator/fragment_open_exit.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_card_view_foreground.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_card_view_foreground.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_abc_tint_spinner.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/font_main.ttf.flat",
+        "source": "kentos.loader.app-main-40:/font/main.ttf"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_textfield_input_text_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_textfield_input_text_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_dark_default_color_primary_text.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_dark_default_color_primary_text.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_btn_checkbox_to_unchecked_icon_null_animation.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/btn_checkbox_to_unchecked_icon_null_animation.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-mdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-mdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-mdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-mdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxxhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxxhdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_material_slider_inactive_tick_marks_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/material_slider_inactive_tick_marks_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_slider_active_track_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_slider_active_track_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xhdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xhdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color-v31_m3_ref_palette_dynamic_neutral96.xml.flat",
+        "source": "kentos.loader.app-main-40:/color-v31/m3_ref_palette_dynamic_neutral96.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_toggle_aim.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/toggle_aim.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_dialog_background.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/dialog_background.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_material_on_surface_emphasis_high_type.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/material_on_surface_emphasis_high_type.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-hdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-hdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_switch_thumb_material_light.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-mdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-mdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_switch_thumb_tint.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_switch_thumb_tint.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/animator_mtrl_extended_fab_show_motion_spec.xml.flat",
+        "source": "kentos.loader.app-main-40:/animator/mtrl_extended_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/interpolator_m3_sys_motion_easing_linear.xml.flat",
+        "source": "kentos.loader.app-main-40:/interpolator/m3_sys_motion_easing_linear.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xhdpi_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xhdpi/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_m3_radiobutton_ripple.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/m3_radiobutton_ripple.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_mtrl_calendar_vertical.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/mtrl_calendar_vertical.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color-night_material_timepicker_button_stroke.xml.flat",
+        "source": "kentos.loader.app-main-40:/color-night/material_timepicker_button_stroke.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_abc_select_dialog_material.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_highlighted_text.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_highlighted_text.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/interpolator_btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml.flat",
+        "source": "kentos.loader.app-main-40:/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_material_timepicker_button_background.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/material_timepicker_button_background.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_abc_tooltip_exit.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_abc_tint_btn_checkable.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_linear_indeterminate_line1_tail_interpolator.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/linear_indeterminate_line1_tail_interpolator.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color-v31_m3_dynamic_default_color_primary_text.xml.flat",
+        "source": "kentos.loader.app-main-40:/color-v31/m3_dynamic_default_color_primary_text.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color-night_material_timepicker_clockface.xml.flat",
+        "source": "kentos.loader.app-main-40:/color-night/material_timepicker_clockface.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_tabs_legacy_text_color_selector.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_tabs_legacy_text_color_selector.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xhdpi_notify_panel_notification_icon_bg.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xhdpi/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_mtrl_calendar_year.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/mtrl_calendar_year.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_tonal_button_ripple_color_selector.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_tonal_button_ripple_color_selector.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_mtrl_alert_dialog_actions.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/mtrl_alert_dialog_actions.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-hdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-hdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xhdpi_notification_bg_normal_pressed.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xhdpi/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_cicrle.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/cicrle.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_dark_hint_foreground.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_dark_hint_foreground.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xhdpi_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xhdpi/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_material_ic_menu_arrow_down_black_24dp.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/material_ic_menu_arrow_down_black_24dp.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_abc_activity_chooser_view.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-hdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-hdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout-sw600dp_design_layout_snackbar.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout-sw600dp/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_abc_ic_search_api_material.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_material_slider_halo_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/material_slider_halo_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/animator_mtrl_extended_fab_state_list_animator.xml.flat",
+        "source": "kentos.loader.app-main-40:/animator/mtrl_extended_fab_state_list_animator.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_btn_checkbox_to_checked_box_inner_merged_animation.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_abc_ab_share_pack_mtrl_alpha.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/abc_ab_share_pack_mtrl_alpha.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xhdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xhdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_material_personalized_color_secondary_text_inverse.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/material_personalized_color_secondary_text_inverse.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_mtrl_bottom_sheet_slide_in.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/mtrl_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_design_navigation_menu.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_navigation_item_icon_tint.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_navigation_item_icon_tint.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-hdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-hdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color-v31_m3_dynamic_dark_highlighted_text.xml.flat",
+        "source": "kentos.loader.app-main-40:/color-v31/m3_dynamic_dark_highlighted_text.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_abc_slide_out_bottom.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_mtrl_popupmenu_background.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/mtrl_popupmenu_background.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxxhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxxhdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-mdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-mdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxhdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_abc_action_menu_layout.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-hdpi_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-hdpi/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_abc_tint_switch_track.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-mdpi_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-mdpi/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_button_outline_color_selector.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_button_outline_color_selector.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-ldrtl-xhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-ldrtl-xhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-mdpi_notify_panel_notification_icon_bg.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-mdpi/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_on_surface_ripple_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_on_surface_ripple_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_dark_default_color_secondary_text.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_dark_default_color_secondary_text.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_draw00b4.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/draw00b4.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_error.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_error.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_launcher.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/launcher.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-mdpi_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-mdpi/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_material_on_primary_disabled.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/material_on_primary_disabled.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-hdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-hdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-mdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-mdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/interpolator_btn_checkbox_checked_mtrl_animation_interpolator_0.xml.flat",
+        "source": "kentos.loader.app-main-40:/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_abc_secondary_text_material_light.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_assist_chip_stroke_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_assist_chip_stroke_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_navigation_bar_colored_item_tint.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_navigation_bar_colored_item_tint.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_abc_list_divider_material.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xhdpi_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xhdpi/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_floating_island.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/floating_island.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_navigation_rail_ripple_color_selector.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_navigation_rail_ripple_color_selector.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_material_timepicker_clock_text_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/material_timepicker_clock_text_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-hdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-hdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-mdpi_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-mdpi/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color-night_material_timepicker_modebutton_tint.xml.flat",
+        "source": "kentos.loader.app-main-40:/color-night/material_timepicker_modebutton_tint.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_abc_grow_fade_in_from_bottom.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_dark_primary_text_disable_only.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_dark_primary_text_disable_only.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout-sw600dp_mtrl_layout_snackbar.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout-sw600dp/mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_dark_highlighted_text.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_dark_highlighted_text.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_m3_side_sheet_dialog.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/m3_side_sheet_dialog.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_abc_search_url_text.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/animator_m3_appbar_state_list_animator.xml.flat",
+        "source": "kentos.loader.app-main-40:/animator/m3_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_abc_screen_simple.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xhdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xhdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_abc_textfield_search_material.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_abc_fade_in.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxhdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxhdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_timepicker_button_background_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_timepicker_button_background_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/animator_m3_extended_fab_state_list_animator.xml.flat",
+        "source": "kentos.loader.app-main-40:/animator/m3_extended_fab_state_list_animator.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_abc_popup_enter.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_text_button_background_color_selector.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_text_button_background_color_selector.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_navigation_item_ripple_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_navigation_item_ripple_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xhdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xhdpi/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_timepicker_display_text_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_timepicker_display_text_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_filled_stroke_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_filled_stroke_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_appbar_overlay_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_appbar_overlay_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-hdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-hdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_radiobutton_ripple_tint.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_radiobutton_ripple_tint.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/interpolator_mtrl_fast_out_slow_in.xml.flat",
+        "source": "kentos.loader.app-main-40:/interpolator/mtrl_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color-v31_m3_ref_palette_dynamic_neutral98.xml.flat",
+        "source": "kentos.loader.app-main-40:/color-v31/m3_ref_palette_dynamic_neutral98.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-mdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-mdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxhdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxhdpi/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxxhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xhdpi_abc_text_select_handle_right_mtrl.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xhdpi/abc_text_select_handle_right_mtrl.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xhdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xhdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_material_slider_inactive_track_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/material_slider_inactive_track_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-mdpi_abc_text_select_handle_left_mtrl.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-mdpi/abc_text_select_handle_left_mtrl.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-hdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-hdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/animator_m3_btn_elevated_btn_state_list_anim.xml.flat",
+        "source": "kentos.loader.app-main-40:/animator/m3_btn_elevated_btn_state_list_anim.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxxhdpi_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxxhdpi/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_abc_tint_seek_thumb.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-mdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-mdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxhdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxhdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-hdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-hdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/xml_network_security_config.xml.flat",
+        "source": "kentos.loader.app-main-40:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_mtrl_layout_snackbar.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_selection_control_ripple_color_selector.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_selection_control_ripple_color_selector.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_abc_list_menu_item_radio.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_navigation_bar_ripple_color_selector.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_navigation_bar_ripple_color_selector.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_btn_radio_to_on_mtrl_dot_group_animation.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/btn_radio_to_on_mtrl_dot_group_animation.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_navigation_bar_colored_ripple_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_navigation_bar_colored_ripple_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_radiobutton_button_tint.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_radiobutton_button_tint.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-hdpi_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-hdpi/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_timepicker_time_input_stroke_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_timepicker_time_input_stroke_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_draw00af.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/draw00af.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_material_ic_keyboard_arrow_next_black_24dp.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/material_ic_keyboard_arrow_next_black_24dp.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xhdpi_notification_bg_low_pressed.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xhdpi/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-hdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-hdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xhdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_design_snackbar_in.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/animator_fragment_close_enter.xml.flat",
+        "source": "kentos.loader.app-main-40:/animator/fragment_close_enter.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color-v31_m3_dynamic_dark_hint_foreground.xml.flat",
+        "source": "kentos.loader.app-main-40:/color-v31/m3_dynamic_dark_hint_foreground.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_m3_auto_complete_simple_item.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/m3_auto_complete_simple_item.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color-v31_m3_ref_palette_dynamic_neutral4.xml.flat",
+        "source": "kentos.loader.app-main-40:/color-v31/m3_ref_palette_dynamic_neutral4.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-mdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-mdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_design_navigation_item_header.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/animator_m3_extended_fab_change_size_collapse_motion_spec.xml.flat",
+        "source": "kentos.loader.app-main-40:/animator/m3_extended_fab_change_size_collapse_motion_spec.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_abc_action_bar_title_item.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_filled_icon_tint.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_filled_icon_tint.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_text_button_foreground_color_selector.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_text_button_foreground_color_selector.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_abc_alert_dialog_material.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_btn_checkbox_to_checked_box_outer_merged_animation.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_layout0032.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/layout0032.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_m3_alert_dialog.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/m3_alert_dialog.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_mtrl_popupmenu_background_overlay.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/mtrl_popupmenu_background_overlay.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxhdpi_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxhdpi/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-ldrtl-xxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-ldrtl-xxhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color-v31_m3_dynamic_hint_foreground.xml.flat",
+        "source": "kentos.loader.app-main-40:/color-v31/m3_dynamic_hint_foreground.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_fab_icon_text_color_selector.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_fab_icon_text_color_selector.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-hdpi_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-hdpi/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxhdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxhdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-mdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-mdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_design_text_input_start_icon.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/design_text_input_start_icon.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_navigation_bar_ripple_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_navigation_bar_ripple_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxhdpi_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxhdpi/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-hdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-hdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-hdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-hdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_abc_switch_thumb_material.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_mtrl_picker_header_selection_text.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/mtrl_picker_header_selection_text.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_textfield_label_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_textfield_label_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_toggle_aimbullet.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/toggle_aimbullet.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_close.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/close.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color-v31_m3_ref_palette_dynamic_neutral12.xml.flat",
+        "source": "kentos.loader.app-main-40:/color-v31/m3_ref_palette_dynamic_neutral12.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_mtrl_calendar_day.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/mtrl_calendar_day.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-hdpi_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-hdpi/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_draw00b2.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/draw00b2.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_spinner_popup_background_dark.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/spinner_popup_background_dark.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_m3_side_sheet_slide_out.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/m3_side_sheet_slide_out.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-hdpi_abc_text_select_handle_right_mtrl.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-hdpi/abc_text_select_handle_right_mtrl.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_ic_m3_chip_check.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/ic_m3_chip_check.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_mtrl_navigation_rail_item.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/mtrl_navigation_rail_item.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_abc_item_background_holo_light.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_mtrl_calendar_month.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/mtrl_calendar_month.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_chip_background_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_chip_background_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_abc_shrink_fade_out_from_bottom.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_material_on_background_emphasis_high_type.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/material_on_background_emphasis_high_type.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color-v31_m3_ref_palette_dynamic_neutral6.xml.flat",
+        "source": "kentos.loader.app-main-40:/color-v31/m3_ref_palette_dynamic_neutral6.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_design_snackbar_out.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxxhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/xml_file_path.xml.flat",
+        "source": "kentos.loader.app-main-40:/xml/file_path.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_mtrl_switch_thumb.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/mtrl_switch_thumb.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxxhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_mtrl_calendar_day_of_week.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/mtrl_calendar_day_of_week.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_material_on_surface_stroke.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/material_on_surface_stroke.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_tabs_ripple_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_tabs_ripple_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_mtrl_picker_header_dialog.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/mtrl_picker_header_dialog.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-mdpi_abc_text_select_handle_right_mtrl.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-mdpi/abc_text_select_handle_right_mtrl.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-mdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-mdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxhdpi_abc_text_select_handle_left_mtrl.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxhdpi/abc_text_select_handle_left_mtrl.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-ldrtl-mdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-ldrtl-mdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xhdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xhdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_mtrl_picker_header_fullscreen.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/mtrl_picker_header_fullscreen.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_chip_ripple_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_chip_ripple_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxhdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxhdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_mtrl_layout_snackbar_include.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/mtrl_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/animator_mtrl_fab_transformation_sheet_expand_spec.xml.flat",
+        "source": "kentos.loader.app-main-40:/animator/mtrl_fab_transformation_sheet_expand_spec.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_textfield_stroke_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_textfield_stroke_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_abc_menu_hardkey_panel_mtrl_mult.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/abc_menu_hardkey_panel_mtrl_mult.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-hdpi_abc_text_select_handle_left_mtrl.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-hdpi/abc_text_select_handle_left_mtrl.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_m3_side_sheet_slide_in.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/m3_side_sheet_slide_in.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxhdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxhdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/interpolator_m3_sys_motion_easing_emphasized.xml.flat",
+        "source": "kentos.loader.app-main-40:/interpolator/m3_sys_motion_easing_emphasized.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_timepicker_display_ripple_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_timepicker_display_ripple_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xhdpi_abc_text_select_handle_left_mtrl.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xhdpi/abc_text_select_handle_left_mtrl.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/interpolator_m3_sys_motion_easing_emphasized_decelerate.xml.flat",
+        "source": "kentos.loader.app-main-40:/interpolator/m3_sys_motion_easing_emphasized_decelerate.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-mdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-mdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_abc_color_highlight_material.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_outlined_icon_tint.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_outlined_icon_tint.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_material_on_primary_emphasis_high_type.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/material_on_primary_emphasis_high_type.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_mtrl_calendar_horizontal.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/mtrl_calendar_horizontal.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_tabs_icon_color_selector.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_tabs_icon_color_selector.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_checkbox_button_tint.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_checkbox_button_tint.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxhdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_btn_bg_color_selector.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_btn_bg_color_selector.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_btn_text_btn_ripple_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_btn_text_btn_ripple_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_mtrl_search_bar.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/mtrl_search_bar.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xhdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xhdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_design_menu_item_action_area.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_material_timepicker_clockface.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/material_timepicker_clockface.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color-v31_m3_ref_palette_dynamic_neutral17.xml.flat",
+        "source": "kentos.loader.app-main-40:/color-v31/m3_ref_palette_dynamic_neutral17.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_abc_ic_clear_material.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout-land_material_timepicker.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout-land/material_timepicker.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_mtrl_alert_select_dialog_item.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/mtrl_alert_select_dialog_item.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-hdpi_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-hdpi/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/animator_mtrl_fab_hide_motion_spec.xml.flat",
+        "source": "kentos.loader.app-main-40:/animator/mtrl_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_m3_motion_fade_exit.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/m3_motion_fade_exit.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_abc_action_bar_up_container.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_navigation_bar_item_with_indicator_icon_tint.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_navigation_bar_item_with_indicator_icon_tint.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_filled_icon_button_container_color_selector.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_filled_icon_button_container_color_selector.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_design_navigation_item_subheader.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-hdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-hdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_abc_cascading_menu_item_layout.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_simple_item_ripple_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_simple_item_ripple_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_calendar_item_stroke_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_calendar_item_stroke_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_select_dialog_multichoice_material.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_abc_slide_in_top.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_abc_hint_foreground_material_light.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_btn_text_btn_bg_color_selector.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_btn_text_btn_bg_color_selector.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_abc_slide_out_top.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color-v31_m3_ref_palette_dynamic_neutral92.xml.flat",
+        "source": "kentos.loader.app-main-40:/color-v31/m3_ref_palette_dynamic_neutral92.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/interpolator_m3_sys_motion_easing_emphasized_accelerate.xml.flat",
+        "source": "kentos.loader.app-main-40:/interpolator/m3_sys_motion_easing_emphasized_accelerate.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_m3_tabs_transparent_background.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/m3_tabs_transparent_background.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_btn_text_color_selector.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_btn_text_color_selector.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_navigation_bar_item_with_indicator_label_tint.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_navigation_bar_item_with_indicator_label_tint.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-hdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-hdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color-v31_m3_ref_palette_dynamic_neutral24.xml.flat",
+        "source": "kentos.loader.app-main-40:/color-v31/m3_ref_palette_dynamic_neutral24.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_on_primary_text_btn_text_color_selector.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_on_primary_text_btn_text_color_selector.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_abc_alert_dialog_title_material.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_mtrl_alert_select_dialog_multichoice.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/mtrl_alert_select_dialog_multichoice.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/animator_fragment_close_exit.xml.flat",
+        "source": "kentos.loader.app-main-40:/animator/fragment_close_exit.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_design_snackbar_background.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_abc_tint_default.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_ic_keyboard_black_24dp.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/ic_keyboard_black_24dp.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_ic_mtrl_chip_close_circle.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/ic_mtrl_chip_close_circle.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_timepicker_button_text_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_timepicker_button_text_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xhdpi_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xhdpi/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_mtrl_auto_complete_simple_item.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/mtrl_auto_complete_simple_item.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_mtrl_alert_select_dialog_singlechoice.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/mtrl_alert_select_dialog_singlechoice.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_material_radial_view_group.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/material_radial_view_group.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_material_personalized_hint_foreground.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/material_personalized_hint_foreground.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxxhdpi_abc_text_select_handle_left_mtrl.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxxhdpi/abc_text_select_handle_left_mtrl.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_ic_m3_chip_checked_circle.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/ic_m3_chip_checked_circle.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/animator_mtrl_fab_show_motion_spec.xml.flat",
+        "source": "kentos.loader.app-main-40:/animator/mtrl_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_fab_efab_background_color_selector.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_fab_efab_background_color_selector.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxhdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxhdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_material_personalized__highlighted_text_inverse.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/material_personalized__highlighted_text_inverse.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xhdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xhdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_material_slider_thumb_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/material_slider_thumb_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/animator_mtrl_extended_fab_change_size_collapse_motion_spec.xml.flat",
+        "source": "kentos.loader.app-main-40:/animator/mtrl_extended_fab_change_size_collapse_motion_spec.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color-v31_m3_dynamic_dark_default_color_secondary_text.xml.flat",
+        "source": "kentos.loader.app-main-40:/color-v31/m3_dynamic_dark_default_color_secondary_text.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-watch_abc_dialog_material_background.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable-watch/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout-v26_abc_screen_toolbar.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout-v26/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-mdpi_notification_bg_normal_pressed.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-mdpi/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color-v31_m3_dynamic_primary_text_disable_only.xml.flat",
+        "source": "kentos.loader.app-main-40:/color-v31/m3_dynamic_primary_text_disable_only.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/animator_design_fab_hide_motion_spec.xml.flat",
+        "source": "kentos.loader.app-main-40:/animator/design_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-ldrtl-hdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-ldrtl-hdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_m3_popupmenu_background_overlay.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/m3_popupmenu_background_overlay.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_switch_thumb_icon_tint.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_switch_thumb_icon_tint.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_design_error.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/design_error.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_draw0089.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/draw0089.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color-v31_m3_dynamic_highlighted_text.xml.flat",
+        "source": "kentos.loader.app-main-40:/color-v31/m3_dynamic_highlighted_text.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxxhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxxhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/xml_file_paths.xml.flat",
+        "source": "kentos.loader.app-main-40:/xml/file_paths.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_activity_launcher.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/activity_launcher.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_abc_search_view.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_tabs_ripple_color_secondary.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_tabs_ripple_color_secondary.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_tabs_icon_color_secondary.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_tabs_icon_color_secondary.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_tabs_text_color_secondary.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_tabs_text_color_secondary.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-hdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-hdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_mtrl_tabs_default_indicator.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/mtrl_tabs_default_indicator.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-hdpi_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-hdpi/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xhdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xhdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_notification_template_part_time.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color-v31_m3_ref_palette_dynamic_neutral87.xml.flat",
+        "source": "kentos.loader.app-main-40:/color-v31/m3_ref_palette_dynamic_neutral87.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/font_mfontx.ttf.flat",
+        "source": "kentos.loader.app-main-40:/font/mfontx.ttf"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_card_stroke_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_card_stroke_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_card_view_ripple.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_card_view_ripple.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-hdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-hdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_mtrl_ic_error.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/mtrl_ic_error.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_design_navigation_item_separator.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-hdpi_notification_bg_low_normal.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-hdpi/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_checkbox_button_icon_tint.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_checkbox_button_icon_tint.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xhdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_btn_checkbox_to_checked_icon_null_animation.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/btn_checkbox_to_checked_icon_null_animation.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_abc_ic_menu_selectall_mtrl_alpha.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/abc_ic_menu_selectall_mtrl_alpha.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_switch_thumb_material_dark.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_mtrl_picker_text_input_date.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/mtrl_picker_text_input_date.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-mdpi_notification_bg_low_normal.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-mdpi/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxhdpi_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxhdpi/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_abc_btn_colored_text_material.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-mdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-mdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_mtrl_dialog_background.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/mtrl_dialog_background.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_mtrl_alert_dialog.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/mtrl_alert_dialog.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_popupmenu_overlay_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_popupmenu_overlay_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_assist_chip_icon_tint_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_assist_chip_icon_tint_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-hdpi_notification_bg_normal.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-hdpi/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_abc_popup_background_mtrl_mult.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/abc_popup_background_mtrl_mult.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-mdpi_abc_text_select_handle_middle_mtrl.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-mdpi/abc_text_select_handle_middle_mtrl.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/animator_m3_extended_fab_change_size_expand_motion_spec.xml.flat",
+        "source": "kentos.loader.app-main-40:/animator/m3_extended_fab_change_size_expand_motion_spec.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/animator_design_appbar_state_list_animator.xml.flat",
+        "source": "kentos.loader.app-main-40:/animator/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xhdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xhdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_chip_text_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_chip_text_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_navigation_bar_item_tint.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_navigation_bar_item_tint.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_navigation_item_text_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_navigation_item_text_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_abc_primary_text_material_light.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_design_bottom_sheet_dialog.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_btn_radio_to_off_mtrl_dot_group_animation.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/btn_radio_to_off_mtrl_dot_group_animation.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_design_layout_snackbar_include.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_notification_template_icon_group.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/animator_mtrl_chip_state_list_anim.xml.flat",
+        "source": "kentos.loader.app-main-40:/animator/mtrl_chip_state_list_anim.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/font_google.ttf.flat",
+        "source": "kentos.loader.app-main-40:/font/google.ttf"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_chip_background_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_chip_background_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxxhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_mtrl_switch_track.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/mtrl_switch_track.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_abc_tooltip_enter.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_btn_stroke_color_selector.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_btn_stroke_color_selector.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/animator_mtrl_extended_fab_change_size_expand_motion_spec.xml.flat",
+        "source": "kentos.loader.app-main-40:/animator/mtrl_extended_fab_change_size_expand_motion_spec.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-hdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-hdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/animator_m3_extended_fab_show_motion_spec.xml.flat",
+        "source": "kentos.loader.app-main-40:/animator/m3_extended_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_material_personalized_color_secondary_text.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/material_personalized_color_secondary_text.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_navigation_item_text_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_navigation_item_text_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xxhdpi_abc_text_select_handle_middle_mtrl.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xxhdpi/abc_text_select_handle_middle_mtrl.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_abc_screen_content_include.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_design_text_input_end_icon.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/design_text_input_end_icon.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_navigation_item_background_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_navigation_item_background_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_chip_surface_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_chip_surface_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_chip_text_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_chip_text_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/animator_mtrl_btn_unelevated_state_list_anim.xml.flat",
+        "source": "kentos.loader.app-main-40:/animator/mtrl_btn_unelevated_state_list_anim.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_mtrl_picker_header_toggle.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/mtrl_picker_header_toggle.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_ic_arrow_back_black_24.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/ic_arrow_back_black_24.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-hdpi_abc_text_select_handle_middle_mtrl.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-hdpi/abc_text_select_handle_middle_mtrl.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color-v31_m3_dynamic_dark_primary_text_disable_only.xml.flat",
+        "source": "kentos.loader.app-main-40:/color-v31/m3_dynamic_dark_primary_text_disable_only.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_design_bottom_sheet_slide_in.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout-watch_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout-watch/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_mtrl_search_view.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/mtrl_search_view.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-hdpi_notify_panel_notification_icon_bg.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-hdpi/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_abc_ic_commit_search_api_mtrl_alpha.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/abc_ic_commit_search_api_mtrl_alpha.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_default_color_secondary_text.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_default_color_secondary_text.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/animator_mtrl_card_state_list_anim.xml.flat",
+        "source": "kentos.loader.app-main-40:/animator/mtrl_card_state_list_anim.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_ic_clock_black_24dp.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/ic_clock_black_24dp.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_abc_ic_menu_share_mtrl_alpha.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/abc_ic_menu_share_mtrl_alpha.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_m3_password_eye.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/m3_password_eye.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_abc_popup_exit.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_mtrl_switch_track_tint.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/mtrl_switch_track_tint.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color-v31_m3_ref_palette_dynamic_neutral22.xml.flat",
+        "source": "kentos.loader.app-main-40:/color-v31/m3_ref_palette_dynamic_neutral22.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_design_bottom_sheet_slide_out.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-xhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-xhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/animator_mtrl_btn_state_list_anim.xml.flat",
+        "source": "kentos.loader.app-main-40:/animator/mtrl_btn_state_list_anim.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_material_on_background_emphasis_medium.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/material_on_background_emphasis_medium.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_custom_dialog.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_abc_switch_track_mtrl_alpha.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/abc_switch_track_mtrl_alpha.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_design_bottom_navigation_item.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_btn_radio_to_on_mtrl_ring_outer_animation.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_material_personalized_color_primary_text.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/material_personalized_color_primary_text.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-hdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-hdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_ic_mtrl_chip_checked_circle.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/ic_mtrl_chip_checked_circle.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_abc_control_background_material.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/abc_control_background_material.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_default_color_primary_text.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_default_color_primary_text.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable_ic_m3_chip_close.xml.flat",
+        "source": "kentos.loader.app-main-40:/drawable/ic_m3_chip_close.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_m3_motion_fade_enter.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/m3_motion_fade_enter.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_navigation_rail_item_with_indicator_icon_tint.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_navigation_rail_item_with_indicator_icon_tint.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_abc_action_menu_item_layout.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/color_m3_timepicker_display_background_color.xml.flat",
+        "source": "kentos.loader.app-main-40:/color/m3_timepicker_display_background_color.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/xml_data_extraction_rules.xml.flat",
+        "source": "kentos.loader.app-main-40:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/drawable-hdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "kentos.loader.app-main-40:/drawable-hdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_material_time_input.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/material_time_input.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/anim_linear_indeterminate_line2_tail_interpolator.xml.flat",
+        "source": "kentos.loader.app-main-40:/anim/linear_indeterminate_line2_tail_interpolator.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_mtrl_picker_actions.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/mtrl_picker_actions.xml"
+    },
+    {
+        "merged": "kentos.loader.app-merged_res-39:/layout_abc_tooltip.xml.flat",
+        "source": "kentos.loader.app-main-40:/layout/abc_tooltip.xml"
+    }
+]

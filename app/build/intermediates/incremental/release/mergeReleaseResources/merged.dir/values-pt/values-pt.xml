@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navegar para a página inicial</string>
+    <string name="abc_action_bar_up_description">Navegar para cima</string>
+    <string name="abc_action_menu_overflow_description">Mais opções</string>
+    <string name="abc_action_mode_done">Concluído</string>
+    <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
+    <string name="abc_activitychooserview_choose_application">Selecionar um app</string>
+    <string name="abc_capital_off">DESATIVADO</string>
+    <string name="abc_capital_on">ATIVADO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">espaço</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Pesquisar…</string>
+    <string name="abc_searchview_description_clear">Limpar consulta</string>
+    <string name="abc_searchview_description_query">Consulta de pesquisa</string>
+    <string name="abc_searchview_description_search">Pesquisar</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Pesquisa por voz</string>
+    <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
+    <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
+    <string name="abc_toolbar_collapse_description">Recolher</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Atender"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Vídeo"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Recusar"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Desligar"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Chamada recebida"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Chamada em andamento"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Filtrando uma ligação recebida"</string>
+    <string name="search_menu_title">Pesquisar</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str0000">Navegar para a página inicial</string>
+    <string name="str0001">Navegar para cima</string>
+    <string name="str0002">Mais opções</string>
+    <string name="str0003">Concluído</string>
+    <string name="str0004">Ver tudo</string>
+    <string name="str0005">Selecionar um app</string>
+    <string name="str0006">DESATIVADO</string>
+    <string name="str0007">ATIVADO</string>
+    <string name="str0008">Alt+</string>
+    <string name="str0009">Ctrl+</string>
+    <string name="str000a">delete</string>
+    <string name="str000b">enter</string>
+    <string name="str000c">Function+</string>
+    <string name="str000d">Meta+</string>
+    <string name="str000e">Shift+</string>
+    <string name="str000f">espaço</string>
+    <string name="str0010">Sym+</string>
+    <string name="str0011">Menu+</string>
+    <string name="str0012">Pesquisar…</string>
+    <string name="str0013">Limpar consulta</string>
+    <string name="str0014">Consulta de pesquisa</string>
+    <string name="str0015">Pesquisar</string>
+    <string name="str0016">Enviar consulta</string>
+    <string name="str0017">Pesquisa por voz</string>
+    <string name="str0018">Compartilhar com</string>
+    <string name="str0019">Compartilhar com s</string>
+    <string name="str001a">Recolher</string>
+    <string name="str002d">Atender</string>
+    <string name="str002e">Vídeo</string>
+    <string name="str002f">Recusar</string>
+    <string name="str0030">Desligar</string>
+    <string name="str0031">Chamada recebida</string>
+    <string name="str0032">Chamada em andamento</string>
+    <string name="str0033">Filtrando uma ligação recebida</string>
+    <string name="str00d7">Pesquisar</string>
+    <string name="str00de">999+</string>
+</resources>

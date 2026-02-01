@@ -1,0 +1,361 @@
+
+> Configure project :
+Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo' was added by build file 'build.gradle'
+
+> Configure project :app
+WARNING: The option 'android.enableBuildCache' is deprecated.
+The current default is 'false'.
+It was removed in version 7.0 of the Android Gradle plugin.
+The Android-specific build caches were superseded by the Gradle build cache (https://docs.gradle.org/current/userguide/build_cache.html).
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [25.2.9519653] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [25.2.9519653] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [25.2.9519653] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [25.2.9519653] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [25.2.9519653] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [25.2.9519653] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [25.2.9519653] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [25.2.9519653] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [25.2.9519653] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [25.2.9519653] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [25.2.9519653] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [25.2.9519653] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [25.2.9519653] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [25.2.9519653] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [25.2.9519653] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [25.2.9519653] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [25.2.9519653] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [25.2.9519653] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [25.2.9519653] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [25.2.9519653] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+WARNING: [CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [25.2.9519653] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [25.2.9519653] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+
+> Task :clean UP-TO-DATE
+> Task :app:externalNativeBuildCleanDebug
+
+> Task :app:externalNativeBuildCleanRelease
+Clean BlackBox-arm64-v8a, native_docs-arm64-v8a, client-arm64-v8a
+
+> Task :app:clean
+> Task :app:preBuild UP-TO-DATE
+> Task :app:preReleaseBuild UP-TO-DATE
+> Task :app:configureCMakeRelWithDebInfo[arm64-v8a]
+
+> Task :app:buildCMakeRelWithDebInfo[arm64-v8a]
+C/C++: ninja: Entering directory `/home/engine/project/app/.cxx/RelWithDebInfo/4o694b1q/arm64-v8a'
+C/C++: /home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:256:110: warning: unused parameter 'thiz' [-Wunused-parameter]
+C/C++:     JNIEXPORT jboolean JNICALL Java_kentos_loader_Component_DownloadZip_verifySignature(JNIEnv* env, jobject thiz, jstring apkPath)
+C/C++:                                                                                                              ^
+C/C++: /home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:264:96: warning: unused parameter 'env' [-Wunused-parameter]
+C/C++:     JNIEXPORT jboolean JNICALL Java_kentos_loader_Component_DownloadZip_checkTampering(JNIEnv* env, jobject thiz)
+C/C++:                                                                                                ^
+C/C++: /home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:264:109: warning: unused parameter 'thiz' [-Wunused-parameter]
+C/C++:     JNIEXPORT jboolean JNICALL Java_kentos_loader_Component_DownloadZip_checkTampering(JNIEnv* env, jobject thiz)
+C/C++:                                                                                                             ^
+C/C++: /home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:269:114: warning: unused parameter 'thiz' [-Wunused-parameter]
+C/C++:     JNIEXPORT jstring JNICALL Java_kentos_loader_Component_DownloadZip_getDeviceFingerprint(JNIEnv* env, jobject thiz)
+C/C++:                                                                                                                  ^
+C/C++: /home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:275:110: warning: unused parameter 'thiz' [-Wunused-parameter]
+C/C++:     JNIEXPORT jboolean JNICALL Java_kentos_loader_Component_DownloadZip_validateLicense(JNIEnv* env, jobject thiz, jstring licenseKey)
+C/C++:                                                                                                              ^
+C/C++: /home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:283:96: warning: unused parameter 'env' [-Wunused-parameter]
+C/C++:     JNIEXPORT jboolean JNICALL Java_kentos_loader_Component_DownloadZip_isRootedDevice(JNIEnv* env, jobject thiz)
+C/C++:                                                                                                ^
+C/C++: /home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:283:109: warning: unused parameter 'thiz' [-Wunused-parameter]
+C/C++:     JNIEXPORT jboolean JNICALL Java_kentos_loader_Component_DownloadZip_isRootedDevice(JNIEnv* env, jobject thiz)
+C/C++:                                                                                                             ^
+C/C++: /home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:288:92: warning: unused parameter 'env' [-Wunused-parameter]
+C/C++:     JNIEXPORT jboolean JNICALL Java_kentos_loader_Component_DownloadZip_isEmulator(JNIEnv* env, jobject thiz)
+C/C++:                                                                                            ^
+C/C++: /home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:288:105: warning: unused parameter 'thiz' [-Wunused-parameter]
+C/C++:     JNIEXPORT jboolean JNICALL Java_kentos_loader_Component_DownloadZip_isEmulator(JNIEnv* env, jobject thiz)
+C/C++:                                                                                                         ^
+C/C++: /home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:293:100: warning: unused parameter 'env' [-Wunused-parameter]
+C/C++:     JNIEXPORT jboolean JNICALL Java_kentos_loader_Component_DownloadZip_isDebuggerAttached(JNIEnv* env, jobject thiz)
+C/C++:                                                                                                    ^
+C/C++: /home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:293:113: warning: unused parameter 'thiz' [-Wunused-parameter]
+C/C++:     JNIEXPORT jboolean JNICALL Java_kentos_loader_Component_DownloadZip_isDebuggerAttached(JNIEnv* env, jobject thiz)
+C/C++:                                                                                                                 ^
+C/C++: /home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:298:114: warning: unused parameter 'thiz' [-Wunused-parameter]
+C/C++:     JNIEXPORT jboolean JNICALL Java_kentos_loader_Component_DownloadZip_executeShellCommand(JNIEnv* env, jobject thiz, jstring command)
+C/C++:                                                                                                                  ^
+C/C++: /home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:306:123: warning: unused parameter 'thiz' [-Wunused-parameter]
+C/C++:     JNIEXPORT jstring JNICALL Java_kentos_loader_Component_DownloadZip_executeShellCommandWithOutput(JNIEnv* env, jobject thiz, jstring command)
+C/C++:                                                                                                                           ^
+C/C++: /home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:314:105: warning: unused parameter 'thiz' [-Wunused-parameter]
+C/C++:     JNIEXPORT jboolean JNICALL Java_kentos_loader_Component_DownloadZip_fileExists(JNIEnv* env, jobject thiz, jstring path)
+C/C++:                                                                                                         ^
+C/C++: /home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:322:110: warning: unused parameter 'thiz' [-Wunused-parameter]
+C/C++:     JNIEXPORT jboolean JNICALL Java_kentos_loader_Component_DownloadZip_createDirectory(JNIEnv* env, jobject thiz, jstring path)
+C/C++:                                                                                                              ^
+C/C++: /home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:330:105: warning: unused parameter 'thiz' [-Wunused-parameter]
+C/C++:     JNIEXPORT jboolean JNICALL Java_kentos_loader_Component_DownloadZip_deleteFile(JNIEnv* env, jobject thiz, jstring path)
+C/C++:                                                                                                         ^
+C/C++: /home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:338:103: warning: unused parameter 'thiz' [-Wunused-parameter]
+C/C++:     JNIEXPORT jboolean JNICALL Java_kentos_loader_Component_DownloadZip_copyFile(JNIEnv* env, jobject thiz, jstring src, jstring dest)
+C/C++:                                                                                                       ^
+C/C++: /home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:348:105: warning: unused parameter 'thiz' [-Wunused-parameter]
+C/C++:     JNIEXPORT jstring JNICALL Java_kentos_loader_Component_DownloadZip_encryptData(JNIEnv* env, jobject thiz, jstring data, jstring key)
+C/C++:                                                                                                         ^
+C/C++: /home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:358:105: warning: unused parameter 'thiz' [-Wunused-parameter]
+C/C++:     JNIEXPORT jstring JNICALL Java_kentos_loader_Component_DownloadZip_decryptData(JNIEnv* env, jobject thiz, jstring data, jstring key)
+C/C++:                                                                                                         ^
+C/C++: /home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:368:108: warning: unused parameter 'thiz' [-Wunused-parameter]
+C/C++:     JNIEXPORT jstring JNICALL Java_kentos_loader_Component_DownloadZip_generateAESKey(JNIEnv* env, jobject thiz)
+C/C++:                                                                                                            ^
+C/C++: /home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:374:105: warning: unused parameter 'env' [-Wunused-parameter]
+C/C++:     JNIEXPORT jboolean JNICALL Java_kentos_loader_Component_DownloadZip_checkInternetConnection(JNIEnv* env, jobject thiz)
+C/C++:                                                                                                         ^
+C/C++: /home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:374:118: warning: unused parameter 'thiz' [-Wunused-parameter]
+C/C++:     JNIEXPORT jboolean JNICALL Java_kentos_loader_Component_DownloadZip_checkInternetConnection(JNIEnv* env, jobject thiz)
+C/C++:                                                                                                                      ^
+C/C++: /home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:379:111: warning: unused parameter 'thiz' [-Wunused-parameter]
+C/C++:     JNIEXPORT jstring JNICALL Java_kentos_loader_Component_DownloadZip_getLocalIPAddress(JNIEnv* env, jobject thiz)
+C/C++:                                                                                                               ^
+C/C++: /home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:385:101: warning: unused parameter 'thiz' [-Wunused-parameter]
+C/C++:     JNIEXPORT void JNICALL Java_kentos_loader_Component_DownloadZip_logMessage(JNIEnv* env, jobject thiz, jstring tag, jstring message)
+C/C++:                                                                                                     ^
+C/C++: /home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:394:99: warning: unused parameter 'thiz' [-Wunused-parameter]
+C/C++:     JNIEXPORT void JNICALL Java_kentos_loader_Component_DownloadZip_logError(JNIEnv* env, jobject thiz, jstring tag, jstring message)
+C/C++:                                                                                                   ^
+C/C++: /home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:403:105: warning: unused parameter 'thiz' [-Wunused-parameter]
+C/C++:     JNIEXPORT void JNICALL Java_kentos_loader_Component_DownloadZip_setConfigValue(JNIEnv* env, jobject thiz, jstring key, jstring value)
+C/C++:                                                                                                         ^
+C/C++: /home/engine/project/app/src/main/cpp/src/blackbox/blackbox.cpp:412:108: warning: unused parameter 'thiz' [-Wunused-parameter]
+C/C++:     JNIEXPORT jstring JNICALL Java_kentos_loader_Component_DownloadZip_getConfigValue(JNIEnv* env, jobject thiz, jstring key, jstring defaultValue)
+C/C++:                                                                                                            ^
+C/C++: 27 warnings generated.
+C/C++: /home/engine/project/app/src/main/cpp/src/blackbox/impl_security.cpp:64:88: warning: unused parameter 'algorithm' [-Wunused-parameter]
+C/C++:     std::string SecurityUtils::HashString(const std::string& input, const std::string& algorithm) {
+C/C++:                                                                                        ^
+C/C++: /home/engine/project/app/src/main/cpp/src/blackbox/impl_security.cpp:134:13: warning: unused variable 'in_' [-Wunused-variable]
+C/C++:         int in_ = 0;
+C/C++:             ^
+C/C++: 2 warnings generated.
+C/C++: /home/engine/project/app/src/main/cpp/src/blackbox/impl_core.cpp:230:58: warning: unused parameter 'tag' [-Wunused-parameter]
+C/C++:     void JNIUtils::LogException(JNIEnv* env, const char* tag) {
+C/C++:                                                          ^
+C/C++: 1 warning generated.
+C/C++: /home/engine/project/app/src/main/cpp/src/client/api_server.cpp:14:99: warning: unused parameter 'clazz' [-Wunused-parameter]
+C/C++:     JNIEXPORT jstring JNICALL Java_kentos_loader_server_ApiServer_CheckServer(JNIEnv* env, jclass clazz)
+C/C++:                                                                                                   ^
+C/C++: /home/engine/project/app/src/main/cpp/src/client/api_server.cpp:20:91: warning: unused parameter 'clazz' [-Wunused-parameter]
+C/C++:     JNIEXPORT jstring JNICALL Java_kentos_loader_server_ApiServer_EXP(JNIEnv* env, jclass clazz)
+C/C++:                                                                                           ^
+C/C++: /home/engine/project/app/src/main/cpp/src/client/api_server.cpp:26:90: warning: unused parameter 'clazz' [-Wunused-parameter]
+C/C++:     JNIEXPORT jstring JNICALL Java_kentos_loader_server_ApiServer_Pw(JNIEnv* env, jclass clazz)
+C/C++:                                                                                          ^
+C/C++: /home/engine/project/app/src/main/cpp/src/client/api_server.cpp:32:95: warning: unused parameter 'clazz' [-Wunused-parameter]
+C/C++:     JNIEXPORT jstring JNICALL Java_kentos_loader_server_ApiServer_URLJSON(JNIEnv* env, jclass clazz)
+C/C++:                                                                                               ^
+C/C++: /home/engine/project/app/src/main/cpp/src/client/api_server.cpp:38:96: warning: unused parameter 'clazz' [-Wunused-parameter]
+C/C++:     JNIEXPORT jstring JNICALL Java_kentos_loader_server_ApiServer_activity(JNIEnv* env, jclass clazz)
+C/C++:                                                                                                ^
+C/C++: /home/engine/project/app/src/main/cpp/src/client/api_server.cpp:44:113: warning: unused parameter 'clazz' [-Wunused-parameter]
+C/C++:     JNIEXPORT jstring JNICALL Java_kentos_loader_server_ApiServer_checkSuspiciousAppsNative(JNIEnv* env, jclass clazz)
+C/C++:                                                                                                                 ^
+C/C++: /home/engine/project/app/src/main/cpp/src/client/api_server.cpp:50:94: warning: unused parameter 'clazz' [-Wunused-parameter]
+C/C++:     JNIEXPORT jstring JNICALL Java_kentos_loader_server_ApiServer_fdjhvf(JNIEnv* env, jclass clazz)
+C/C++:                                                                                              ^
+C/C++: /home/engine/project/app/src/main/cpp/src/client/api_server.cpp:56:95: warning: unused parameter 'clazz' [-Wunused-parameter]
+C/C++:     JNIEXPORT jstring JNICALL Java_kentos_loader_server_ApiServer_getGrup(JNIEnv* env, jclass clazz)
+C/C++:                                                                                               ^
+C/C++: /home/engine/project/app/src/main/cpp/src/client/api_server.cpp:62:96: warning: unused parameter 'clazz' [-Wunused-parameter]
+C/C++:     JNIEXPORT jstring JNICALL Java_kentos_loader_server_ApiServer_getOwner(JNIEnv* env, jclass clazz)
+C/C++:                                                                                                ^
+C/C++: /home/engine/project/app/src/main/cpp/src/client/api_server.cpp:68:99: warning: unused parameter 'clazz' [-Wunused-parameter]
+C/C++:     JNIEXPORT jstring JNICALL Java_kentos_loader_server_ApiServer_getTelegram(JNIEnv* env, jclass clazz)
+C/C++:                                                                                                   ^
+C/C++: /home/engine/project/app/src/main/cpp/src/client/api_server.cpp:74:95: warning: unused parameter 'clazz' [-Wunused-parameter]
+C/C++:     JNIEXPORT jstring JNICALL Java_kentos_loader_server_ApiServer_mainURL(JNIEnv* env, jclass clazz)
+C/C++:                                                                                               ^
+C/C++: /home/engine/project/app/src/main/cpp/src/client/api_server.cpp:80:102: warning: unused parameter 'clazz' [-Wunused-parameter]
+C/C++:     JNIEXPORT jstring JNICALL Java_kentos_loader_server_ApiServer_sockallversion(JNIEnv* env, jclass clazz)
+C/C++:                                                                                                      ^
+C/C++: /home/engine/project/app/src/main/cpp/src/client/api_server.cpp:86:97: warning: unused parameter 'clazz' [-Wunused-parameter]
+C/C++:     JNIEXPORT jstring JNICALL Java_kentos_loader_server_ApiServer_sockindia(JNIEnv* env, jclass clazz)
+C/C++:                                                                                                 ^
+C/C++: 13 warnings generated.
+C/C++: /home/engine/project/app/src/main/cpp/jni/jni_interface.cpp:125:48: warning: unused parameter 'tag' [-Wunused-parameter]
+C/C++:     void LogException(JNIEnv* env, const char* tag) {
+C/C++:                                                ^
+C/C++: /home/engine/project/app/src/main/cpp/jni/jni_interface.cpp:179:48: warning: unused parameter 'env' [-Wunused-parameter]
+C/C++:     void RegisterBlackBoxNativeMethods(JNIEnv* env) {
+C/C++:                                                ^
+C/C++: /home/engine/project/app/src/main/cpp/jni/jni_interface.cpp:185:46: warning: unused parameter 'env' [-Wunused-parameter]
+C/C++:     void RegisterClientNativeMethods(JNIEnv* env) {
+C/C++:                                              ^
+C/C++: /home/engine/project/app/src/main/cpp/jni/jni_interface.cpp:191:55: warning: unused parameter 'env' [-Wunused-parameter]
+C/C++:     void RegisterFloatingServiceNativeMethods(JNIEnv* env) {
+C/C++:                                                       ^
+C/C++: /home/engine/project/app/src/main/cpp/jni/jni_interface.cpp:197:43: warning: unused parameter 'env' [-Wunused-parameter]
+C/C++:     void RegisterESPNativeMethods(JNIEnv* env) {
+C/C++:                                           ^
+C/C++: /home/engine/project/app/src/main/cpp/jni/jni_interface.cpp:203:47: warning: unused parameter 'env' [-Wunused-parameter]
+C/C++:     void RegisterOverlayNativeMethods(JNIEnv* env) {
+C/C++:                                               ^
+C/C++: /home/engine/project/app/src/main/cpp/jni/jni_interface.cpp:209:45: warning: unused parameter 'env' [-Wunused-parameter]
+C/C++:     void RegisterCheatNativeMethods(JNIEnv* env) {
+C/C++:                                             ^
+C/C++: /home/engine/project/app/src/main/cpp/jni/jni_interface.cpp:217:64: warning: unused parameter 'reserved' [-Wunused-parameter]
+C/C++: extern "C" JNIEXPORT jint JNICALL JNI_OnLoad(JavaVM* vm, void* reserved) {
+C/C++:                                                                ^
+C/C++: /home/engine/project/app/src/main/cpp/jni/jni_interface.cpp:244:56: warning: unused parameter 'vm' [-Wunused-parameter]
+C/C++: extern "C" JNIEXPORT void JNICALL JNI_OnUnload(JavaVM* vm, void* reserved) {
+C/C++:                                                        ^
+C/C++: /home/engine/project/app/src/main/cpp/jni/jni_interface.cpp:244:66: warning: unused parameter 'reserved' [-Wunused-parameter]
+C/C++: extern "C" JNIEXPORT void JNICALL JNI_OnUnload(JavaVM* vm, void* reserved) {
+C/C++:                                                                  ^
+C/C++: 10 warnings generated.
+C/C++: /home/engine/project/app/src/main/cpp/android/overlay/overlay.cpp:130:80: warning: unused parameter 'r' [-Wunused-parameter]
+C/C++:     void DrawText(const std::string& text, float x, float y, float size, float r, float g, float b, float a) {
+C/C++:                                                                                ^
+C/C++: /home/engine/project/app/src/main/cpp/android/overlay/overlay.cpp:130:89: warning: unused parameter 'g' [-Wunused-parameter]
+C/C++:     void DrawText(const std::string& text, float x, float y, float size, float r, float g, float b, float a) {
+C/C++:                                                                                         ^
+C/C++: /home/engine/project/app/src/main/cpp/android/overlay/overlay.cpp:130:98: warning: unused parameter 'b' [-Wunused-parameter]
+C/C++:     void DrawText(const std::string& text, float x, float y, float size, float r, float g, float b, float a) {
+C/C++:                                                                                                  ^
+C/C++: /home/engine/project/app/src/main/cpp/android/overlay/overlay.cpp:130:107: warning: unused parameter 'a' [-Wunused-parameter]
+C/C++:     void DrawText(const std::string& text, float x, float y, float size, float r, float g, float b, float a) {
+C/C++:                                                                                                           ^
+C/C++: /home/engine/project/app/src/main/cpp/android/overlay/overlay.cpp:139:70: warning: unused parameter 'r' [-Wunused-parameter]
+C/C++:     void DrawRect(float x, float y, float width, float height, float r, float g, float b, float a) {
+C/C++:                                                                      ^
+C/C++: /home/engine/project/app/src/main/cpp/android/overlay/overlay.cpp:139:79: warning: unused parameter 'g' [-Wunused-parameter]
+C/C++:     void DrawRect(float x, float y, float width, float height, float r, float g, float b, float a) {
+C/C++:                                                                               ^
+C/C++: /home/engine/project/app/src/main/cpp/android/overlay/overlay.cpp:139:88: warning: unused parameter 'b' [-Wunused-parameter]
+C/C++:     void DrawRect(float x, float y, float width, float height, float r, float g, float b, float a) {
+C/C++:                                                                                        ^
+C/C++: /home/engine/project/app/src/main/cpp/android/overlay/overlay.cpp:139:97: warning: unused parameter 'a' [-Wunused-parameter]
+C/C++:     void DrawRect(float x, float y, float width, float height, float r, float g, float b, float a) {
+C/C++:                                                                                                 ^
+C/C++: /home/engine/project/app/src/main/cpp/android/overlay/overlay.cpp:148:65: warning: unused parameter 'width' [-Wunused-parameter]
+C/C++:     void DrawLine(float x1, float y1, float x2, float y2, float width, float r, float g, float b, float a) {
+C/C++:                                                                 ^
+C/C++: /home/engine/project/app/src/main/cpp/android/overlay/overlay.cpp:148:78: warning: unused parameter 'r' [-Wunused-parameter]
+C/C++:     void DrawLine(float x1, float y1, float x2, float y2, float width, float r, float g, float b, float a) {
+C/C++:                                                                              ^
+C/C++: /home/engine/project/app/src/main/cpp/android/overlay/overlay.cpp:148:87: warning: unused parameter 'g' [-Wunused-parameter]
+C/C++:     void DrawLine(float x1, float y1, float x2, float y2, float width, float r, float g, float b, float a) {
+C/C++:                                                                                       ^
+C/C++: /home/engine/project/app/src/main/cpp/android/overlay/overlay.cpp:148:96: warning: unused parameter 'b' [-Wunused-parameter]
+C/C++:     void DrawLine(float x1, float y1, float x2, float y2, float width, float r, float g, float b, float a) {
+C/C++:                                                                                                ^
+C/C++: /home/engine/project/app/src/main/cpp/android/overlay/overlay.cpp:148:105: warning: unused parameter 'a' [-Wunused-parameter]
+C/C++:     void DrawLine(float x1, float y1, float x2, float y2, float width, float r, float g, float b, float a) {
+C/C++:                                                                                                         ^
+C/C++: 13 warnings generated.
+C/C++: /home/engine/project/app/src/main/cpp/android/cheat/bullet.cpp:27:31: warning: unused variable 'g_bulletModification' [-Wunused-variable]
+C/C++:     static BulletModification g_bulletModification;
+C/C++:                               ^
+C/C++: 1 warning generated.
+
+> Task :app:mergeReleaseJniLibFolders
+> Task :app:mergeReleaseNativeLibs
+> Task :app:buildKotlinToolingMetadata
+> Task :app:checkKotlinGradlePluginConfigurationErrors
+> Task :app:checkReleaseAarMetadata
+> Task :app:generateReleaseResValues
+> Task :app:checkReleaseDuplicateClasses
+> Task :app:mapReleaseSourceSetPaths
+> Task :app:generateReleaseResources
+
+> Task :app:stripReleaseDebugSymbols
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [25.2.9519653] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [25.2.9519653] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [25.2.9519653] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+
+> Task :app:extractReleaseNativeSymbolTables
+[CXX5106] NDK was located by using ndk.dir property. This method is deprecated and will be removed in a future release. Please delete ndk.dir from local.properties and set android.ndkVersion to [25.2.9519653] in all native modules in the project. https://developer.android.com/r/studio-ui/ndk-dir
+
+> Task :app:mergeReleaseResources
+> Task :app:packageReleaseResources
+> Task :app:createReleaseCompatibleScreenManifests
+> Task :app:extractDeepLinksRelease
+> Task :app:mergeReleaseNativeDebugMetadata
+
+> Task :app:processReleaseMainManifest
+package="kentos.loader" found in source AndroidManifest.xml: /home/engine/project/app/src/main/AndroidManifest.xml.
+Setting the namespace via the package attribute in the source AndroidManifest.xml is no longer supported, and the value is ignored.
+Recommendation: remove package="kentos.loader" from the source AndroidManifest.xml: /home/engine/project/app/src/main/AndroidManifest.xml.
+/home/engine/project/app/src/main/AndroidManifest.xml:198:140-173 Warning:
+	android:extractNativeLibs should not be specified in this source AndroidManifest.xml file. See https://d.android.com/guide/topics/manifest/application-element#extractNativeLibs for more information.
+The AGP Upgrade Assistant can remove the attribute from the AndroidManifest.xml file and update the build file accordingly. See https://d.android.com/studio/build/agp-upgrade-assistant for more information.
+/home/engine/project/app/src/main/AndroidManifest.xml:63:5-84 Warning:
+	Element uses-permission#com.android.launcher.permission.READ_SETTINGS at AndroidManifest.xml:63:5-84 duplicated with element declared at AndroidManifest.xml:51:5-84
+/home/engine/project/app/src/main/AndroidManifest.xml:73:5-80 Warning:
+	Element uses-permission#com.htc.launcher.permission.READ_SETTINGS at AndroidManifest.xml:73:5-80 duplicated with element declared at AndroidManifest.xml:54:5-80
+/home/engine/project/app/src/main/AndroidManifest.xml:75:5-81 Warning:
+	Element uses-permission#com.oppo.launcher.permission.READ_SETTINGS at AndroidManifest.xml:75:5-81 duplicated with element declared at AndroidManifest.xml:47:5-81
+/home/engine/project/app/src/main/AndroidManifest.xml:79:5-91 Warning:
+	Element uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS at AndroidManifest.xml:79:5-91 duplicated with element declared at AndroidManifest.xml:61:5-91
+/home/engine/project/app/src/main/AndroidManifest.xml:80:5-90 Warning:
+	Element uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE at AndroidManifest.xml:80:5-90 duplicated with element declared at AndroidManifest.xml:60:5-90
+/home/engine/project/app/src/main/AndroidManifest.xml:83:5-64 Warning:
+	Element uses-permission#android.permission.CAMERA at AndroidManifest.xml:83:5-64 duplicated with element declared at AndroidManifest.xml:81:5-64
+/home/engine/project/app/src/main/AndroidManifest.xml:173:5-80 Warning:
+	Element uses-permission#android.permission.PROCESS_OUTGOING_CALLS at AndroidManifest.xml:173:5-80 duplicated with element declared at AndroidManifest.xml:168:5-80
+/home/engine/project/app/src/main/AndroidManifest.xml:174:5-68 Warning:
+	Element uses-permission#android.permission.CALL_PHONE at AndroidManifest.xml:174:5-68 duplicated with element declared at AndroidManifest.xml:166:5-68
+/home/engine/project/app/src/main/AndroidManifest.xml:183:5-82 Warning:
+	Element uses-permission#android.permission.GET_INTENT_SENDER_INTENT at AndroidManifest.xml:183:5-82 duplicated with element declared at AndroidManifest.xml:140:5-82
+/home/engine/project/app/src/main/AndroidManifest.xml:189:5-77 Warning:
+	Element uses-permission#android.permission.PACKAGE_USAGE_STATS at AndroidManifest.xml:189:5-77 duplicated with element declared at AndroidManifest.xml:153:5-77
+/home/engine/project/app/src/main/AndroidManifest.xml:218:9-70 Warning:
+	Element service#kentos.loader.floating.FloatService at AndroidManifest.xml:218:9-70 duplicated with element declared at AndroidManifest.xml:212:9-70
+
+> Task :app:processReleaseManifest
+> Task :app:javaPreCompileRelease
+> Task :app:desugarReleaseFileDependencies
+> Task :app:parseReleaseLocalResources
+> Task :app:processReleaseManifestForPackage
+> Task :app:mergeReleaseArtProfile
+> Task :app:mergeReleaseShaders
+> Task :app:compileReleaseShaders NO-SOURCE
+> Task :app:generateReleaseAssets UP-TO-DATE
+> Task :app:mergeReleaseAssets
+> Task :app:processReleaseResources FAILED
+> Task :app:compressReleaseAssets
+> Task :app:collectReleaseDependencies
+> Task :app:mergeExtDexRelease
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':app:processReleaseResources'.
+> A failure occurred while executing com.android.build.gradle.internal.res.LinkApplicationAndroidResourcesTask$TaskAction
+   > Android resource linking failed
+     kentos.loader.app-mergeReleaseResources-37:/values/values.xml:6878: error: resource drawable/console_background (aka kentos.loader:drawable/console_background) not found.
+     kentos.loader.app-mergeReleaseResources-37:/values/values.xml:6878: error: resource drawable/console_background (aka kentos.loader:drawable/console_background) not found.
+     kentos.loader.app-mergeReleaseResources-37:/values/values.xml:7342: error: resource drawable/spinner_popup_background_dark (aka kentos.loader:drawable/spinner_popup_background_dark) not found.
+     kentos.loader.app-mergeReleaseResources-37:/values/values.xml:7342: error: resource drawable/spinner_popup_background_dark (aka kentos.loader:drawable/spinner_popup_background_dark) not found.
+     kentos.loader.app-mergeReleaseResources-37:/values/values.xml:8644: error: resource drawable/m3_appbar_background (aka kentos.loader:drawable/m3_appbar_background) not found.
+     kentos.loader.app-mergeReleaseResources-37:/values/values.xml:8645: error: resource drawable/m3_appbar_background (aka kentos.loader:drawable/m3_appbar_background) not found.
+     kentos.loader.app-mergeReleaseResources-37:/values/values.xml:8646: error: resource drawable/m3_appbar_background (aka kentos.loader:drawable/m3_appbar_background) not found.
+     kentos.loader.app-mergeReleaseResources-37:/values/values.xml:8644: error: resource drawable/m3_appbar_background (aka kentos.loader:drawable/m3_appbar_background) not found.
+     kentos.loader.app-mergeReleaseResources-37:/values/values.xml:8645: error: resource drawable/m3_appbar_background (aka kentos.loader:drawable/m3_appbar_background) not found.
+     kentos.loader.app-mergeReleaseResources-37:/values/values.xml:8646: error: resource drawable/m3_appbar_background (aka kentos.loader:drawable/m3_appbar_background) not found.
+     kentos.loader.app-mergeReleaseResources-37:/values/values.xml:8649: error: resource drawable/m3_appbar_background (aka kentos.loader:drawable/m3_appbar_background) not found.
+     kentos.loader.app-mergeReleaseResources-37:/values/values.xml:8650: error: resource drawable/m3_appbar_background (aka kentos.loader:drawable/m3_appbar_background) not found.
+     kentos.loader.app-mergeReleaseResources-37:/values/values.xml:8649: error: resource drawable/m3_appbar_background (aka kentos.loader:drawable/m3_appbar_background) not found.
+     kentos.loader.app-mergeReleaseResources-37:/values/values.xml:8650: error: resource drawable/m3_appbar_background (aka kentos.loader:drawable/m3_appbar_background) not found.
+     kentos.loader.app-mergeReleaseResources-37:/values/values.xml:9155: error: resource drawable/m3_appbar_background (aka kentos.loader:drawable/m3_appbar_background) not found.
+     kentos.loader.app-mergeReleaseResources-37:/values/values.xml:9156: error: resource drawable/m3_appbar_background (aka kentos.loader:drawable/m3_appbar_background) not found.
+     kentos.loader.app-mergeReleaseResources-37:/values/values.xml:9157: error: resource drawable/m3_appbar_background (aka kentos.loader:drawable/m3_appbar_background) not found.
+     kentos.loader.app-mergeReleaseResources-37:/values/values.xml:9155: error: resource drawable/m3_appbar_background (aka kentos.loader:drawable/m3_appbar_background) not found.
+     kentos.loader.app-mergeReleaseResources-37:/values/values.xml:9156: error: resource drawable/m3_appbar_background (aka kentos.loader:drawable/m3_appbar_background) not found.
+     kentos.loader.app-mergeReleaseResources-37:/values/values.xml:9157: error: resource drawable/m3_appbar_background (aka kentos.loader:drawable/m3_appbar_background) not found.
+
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+BUILD FAILED in 16s
+34 actionable tasks: 33 executed, 1 up-to-date
