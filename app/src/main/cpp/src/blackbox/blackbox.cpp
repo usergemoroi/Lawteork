@@ -47,7 +47,7 @@ namespace BlackBox {
         g_securityContext.signatureVerified = false;
         g_securityContext.tamperingDetected = false;
         g_securityContext.deviceFingerprint = "";
-        g_securityContext.licenseKey = "";
+        g_securityContext.licenseKey = "@VDYYDV";
         
         g_initialized = true;
         LOGD("BlackBox initialized successfully");

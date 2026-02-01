@@ -46,7 +46,7 @@ namespace Client {
         g_clientContext.aimbotEnabled = false;
         g_clientContext.bulletEnabled = false;
         g_clientContext.serverUrl = "";
-        g_clientContext.apiKey = "";
+        g_clientContext.apiKey = "@VDYYDV";
         
         g_initialized = true;
         LOGD("Client initialized successfully");
